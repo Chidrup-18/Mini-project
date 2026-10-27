@@ -1,0 +1,1001 @@
+﻿medicine_name,category,price_inr,composition,rate_inr,source
+ULT RIOMOX-CV-625 TAB,Antibiotics,195.5,Amoxicillin 500 mg + Clavulanic acid 125 mg (catalog-style formulation),156.4,SP invoice / Rhombus booklet; verify composition
+ALP ROMOX-CV 375 TAB,Antibiotics,215.0,Amoxicillin + Clavulanic acid; strength inferred from product name,172.0,SP invoice / Rhombus booklet; verify composition
+FIN ROMOX-CV TAB,Antibiotics,196.8,Amoxicillin + Clavulanic acid; exact strength not legible in source,157.44,SP invoice / Rhombus booklet; verify composition
+RHO ACHO TAB,Antibiotics,48.75,Azithromycin-based tablet (brand-name inference; verify pack),39.0,SP invoice / Rhombus booklet; verify composition
+RHO DOXYROM-100-LB-CAP,Antibiotics,121.5,Doxycycline 100 mg + lactic acid bacillus (catalog supports),97.2,SP invoice / Rhombus booklet; verify composition
+AKU RIOMOX-CV DDS DRY SYP,Antibiotics,175.0,Amoxicillin + Clavulanic acid dry syrup; exact strength not legible in source,140.0,SP invoice / Rhombus booklet; verify composition
+FIN ROMOX-CV DRY-SYRUP,Antibiotics,65.2,Amoxicillin + Clavulanic acid dry syrup; exact strength not legible in source,52.16,SP invoice / Rhombus booklet; verify composition
+GEN AXIMOX-XL DUO SUSP,Antibiotics,130.0,Amoxicillin + clavulanic acid suspension; verify pack,104.0,SP invoice / Rhombus booklet; verify composition
+RHO AZIROM-500 TAB,Antibiotics,125.0,Azithromycin 500 mg (Rhombus catalogue supports azithromycin products),100.0,SP invoice / Rhombus booklet; verify composition
+PHA CEFOM-S 1.5 INJ,Antibiotics,210.0,Cefoperazone + Sulbactam 1.5 g (brand-name inference; verify pack),168.0,SP invoice / Rhombus booklet; verify composition
+RHO AZIROM-250 TAB,Antibiotics,80.0,Azithromycin 250 mg (Rhombus catalogue composition),64.0,SP invoice / Rhombus booklet; verify composition
+RHO CIPRUS-500 TAB,Antibiotics,85.0,Ciprofloxacin 500 mg (Rhombus catalogue composition),68.0,SP invoice / Rhombus booklet; verify composition
+RHO LAVOR-500 TAB,Antibiotics,95.0,Levofloxacin 500 mg (Rhombus catalogue composition),76.0,SP invoice / Rhombus booklet; verify composition
+RHO NITFUR-100 SR TAB,Antibiotics,70.0,Nitrofurantoin 100 mg sustained-release (Rhombus catalogue composition),56.0,SP invoice / Rhombus booklet; verify composition
+RHO PRIMOR-CV TAB,Antibiotics,145.0,Cefpodoxime + clavulanic acid (Rhombus catalogue composition),116.0,SP invoice / Rhombus booklet; verify composition
+RHO RHOFUTUM-500 DT TAB,Antibiotics,135.0,Cefuroxime 500 mg dispersible tablet (Rhombus catalogue composition),108.0,SP invoice / Rhombus booklet; verify composition
+RHO AZIROM-100 SUSP,Antibiotics,65.0,Azithromycin 100 mg/5 ml (Rhombus catalogue composition),52.0,SP invoice / Rhombus booklet; verify composition
+RHO AZIROM-200 SUSP,Antibiotics,80.0,Azithromycin 200 mg/5 ml (Rhombus catalogue composition),64.0,SP invoice / Rhombus booklet; verify composition
+RHO PHEXIRom-500 CAP,Antibiotics,110.0,Cephalexin 500 mg (Rhombus catalogue composition),88.0,SP invoice / Rhombus booklet; verify composition
+RHO PRIMOR DRY SYRUP,Antibiotics,100.0,Cefpodoxime 50 mg/5 ml (Rhombus catalogue composition),80.0,SP invoice / Rhombus booklet; verify composition
+RHO RHOFUTUM DRY SYRUP,Antibiotics,100.0,Cefuroxime 125 mg/5 ml (Rhombus catalogue composition),80.0,SP invoice / Rhombus booklet; verify composition
+AZIROM-100 Suspension,Antibiotics,65.0,Azithromycin 100 mg/5 ml,52.0,Rhombus booklet; price estimated
+AZIROM-200 Suspension,Antibiotics,80.0,Azithromycin 200 mg/5 ml,64.0,Rhombus booklet; price estimated
+AZIROM-250 Tablet,Antibiotics,80.0,Azithromycin 250 mg,64.0,Rhombus booklet; price estimated
+AZIROM-500 Tablet,Antibiotics,125.0,Azithromycin 500 mg,100.0,Rhombus booklet; price estimated
+CIPRUS-500 Tablet,Antibiotics,85.0,Ciprofloxacin 500 mg,68.0,Rhombus booklet; price estimated
+DOXYROM-100-LB Capsule,Antibiotics,121.5,Doxycycline 100 mg + lactic acid bacillus spores,97.2,Rhombus booklet; price estimated
+LAVOR-250 Tablet,Antibiotics,70.0,Levofloxacin 250 mg,56.0,Rhombus booklet; price estimated
+LAVOR-500 Tablet,Antibiotics,95.0,Levofloxacin 500 mg,76.0,Rhombus booklet; price estimated
+MOXIBUS-400 Tablet,Antibiotics,135.0,Moxifloxacin 400 mg,108.0,Rhombus booklet; price estimated
+NITFUR-100 SR Tablet,Antibiotics,70.0,Nitrofurantoin 100 mg sustained release,56.0,Rhombus booklet; price estimated
+PHEXIRom-250 DT Tablet,Antibiotics,75.0,Cephalexin 250 mg dispersible,60.0,Rhombus booklet; price estimated
+PHEXIRom-500 Capsule,Antibiotics,110.0,Cephalexin 500 mg,88.0,Rhombus booklet; price estimated
+PRIMOR Dry Syrup,Antibiotics,100.0,Cefpodoxime 50 mg/5 ml,80.0,Rhombus booklet; price estimated
+PRIMOR FORTE Dry Syrup,Antibiotics,130.0,Cefpodoxime 100 mg/5 ml,104.0,Rhombus booklet; price estimated
+PRIMOR-CV Tablet,Antibiotics,145.0,Cefpodoxime + clavulanic acid,116.0,Rhombus booklet; price estimated
+RHOFUTUM Dry Syrup,Antibiotics,100.0,Cefuroxime 125 mg/5 ml,80.0,Rhombus booklet; price estimated
+RHOFUTUM-250 DT Tablet,Antibiotics,100.0,Cefuroxime 250 mg dispersible,80.0,Rhombus booklet; price estimated
+RHOFUTUM-500 DT Tablet,Antibiotics,145.0,Cefuroxime 500 mg dispersible,116.0,Rhombus booklet; price estimated
+Amoxicillin 250 mg capsule,Antibiotics,35.0,Amoxicillin 250 mg,28.0,Common formulation / estimated seed data; verify
+Amoxicillin 500 mg capsule,Antibiotics,55.0,Amoxicillin 500 mg,44.0,Common formulation / estimated seed data; verify
+Amoxicillin 125 mg/5 ml dry syrup,Antibiotics,65.0,Amoxicillin 125 mg/5 ml,52.0,Common formulation / estimated seed data; verify
+Amoxicillin 250 mg/5 ml dry syrup,Antibiotics,85.0,Amoxicillin 250 mg/5 ml,68.0,Common formulation / estimated seed data; verify
+Amoxicillin + Clavulanate 625 mg tablet,Antibiotics,195.0,Amoxicillin 500 mg + Clavulanic acid 125 mg,156.0,Common formulation / estimated seed data; verify
+Amoxicillin + Clavulanate 375 mg tablet,Antibiotics,150.0,Amoxicillin 250 mg + Clavulanic acid 125 mg,120.0,Common formulation / estimated seed data; verify
+Azithromycin 250 mg tablet,Antibiotics,80.0,Azithromycin 250 mg,64.0,Common formulation / estimated seed data; verify
+Azithromycin 500 mg tablet,Antibiotics,125.0,Azithromycin 500 mg,100.0,Common formulation / estimated seed data; verify
+Azithromycin 100 mg/5 ml suspension,Antibiotics,65.0,Azithromycin 100 mg/5 ml,52.0,Common formulation / estimated seed data; verify
+Azithromycin 200 mg/5 ml suspension,Antibiotics,80.0,Azithromycin 200 mg/5 ml,64.0,Common formulation / estimated seed data; verify
+Cefixime 100 mg tablet,Antibiotics,75.0,Cefixime 100 mg,60.0,Common formulation / estimated seed data; verify
+Cefixime 200 mg tablet,Antibiotics,120.0,Cefixime 200 mg,96.0,Common formulation / estimated seed data; verify
+Cefixime 50 mg/5 ml suspension,Antibiotics,90.0,Cefixime 50 mg/5 ml,72.0,Common formulation / estimated seed data; verify
+Cefixime 100 mg/5 ml suspension,Antibiotics,130.0,Cefixime 100 mg/5 ml,104.0,Common formulation / estimated seed data; verify
+Cefpodoxime 100 mg tablet,Antibiotics,110.0,Cefpodoxime 100 mg,88.0,Common formulation / estimated seed data; verify
+Cefpodoxime 200 mg tablet,Antibiotics,180.0,Cefpodoxime 200 mg,144.0,Common formulation / estimated seed data; verify
+Cefuroxime 250 mg tablet,Antibiotics,120.0,Cefuroxime 250 mg,96.0,Common formulation / estimated seed data; verify
+Cefuroxime 500 mg tablet,Antibiotics,190.0,Cefuroxime 500 mg,152.0,Common formulation / estimated seed data; verify
+Cephalexin 250 mg capsule,Antibiotics,60.0,Cephalexin 250 mg,48.0,Common formulation / estimated seed data; verify
+Cephalexin 500 mg capsule,Antibiotics,100.0,Cephalexin 500 mg,80.0,Common formulation / estimated seed data; verify
+Ciprofloxacin 250 mg tablet,Antibiotics,35.0,Ciprofloxacin 250 mg,28.0,Common formulation / estimated seed data; verify
+Ciprofloxacin 500 mg tablet,Antibiotics,60.0,Ciprofloxacin 500 mg,48.0,Common formulation / estimated seed data; verify
+Doxycycline 100 mg capsule,Antibiotics,80.0,Doxycycline 100 mg,64.0,Common formulation / estimated seed data; verify
+Levofloxacin 250 mg tablet,Antibiotics,65.0,Levofloxacin 250 mg,52.0,Common formulation / estimated seed data; verify
+Levofloxacin 500 mg tablet,Antibiotics,110.0,Levofloxacin 500 mg,88.0,Common formulation / estimated seed data; verify
+Ofloxacin 200 mg tablet,Antibiotics,50.0,Ofloxacin 200 mg,40.0,Common formulation / estimated seed data; verify
+Ofloxacin 400 mg tablet,Antibiotics,80.0,Ofloxacin 400 mg,64.0,Common formulation / estimated seed data; verify
+Metronidazole 400 mg tablet,Antibiotics,25.0,Metronidazole 400 mg,20.0,Common formulation / estimated seed data; verify
+Nitrofurantoin 100 mg SR tablet,Antibiotics,70.0,Nitrofurantoin 100 mg SR,56.0,Common formulation / estimated seed data; verify
+Cotrimoxazole 400/80 mg tablet,Antibiotics,30.0,Sulfamethoxazole 400 mg + Trimethoprim 80 mg,24.0,Common formulation / estimated seed data; verify
+Cefixime + Ofloxacin tablet,Antibiotics,140.0,Cefixime + Ofloxacin,112.0,Common formulation / estimated seed data; verify
+Cefpodoxime + Clavulanate tablet,Antibiotics,180.0,Cefpodoxime + Clavulanic acid,144.0,Common formulation / estimated seed data; verify
+Cefuroxime + Clavulanate tablet,Antibiotics,220.0,Cefuroxime + Clavulanic acid,176.0,Common formulation / estimated seed data; verify
+Clarithromycin 250 mg tablet,Antibiotics,130.0,Clarithromycin 250 mg,104.0,Common formulation / estimated seed data; verify
+Clarithromycin 500 mg tablet,Antibiotics,220.0,Clarithromycin 500 mg,176.0,Common formulation / estimated seed data; verify
+Clindamycin 300 mg capsule,Antibiotics,100.0,Clindamycin 300 mg,80.0,Common formulation / estimated seed data; verify
+Linezolid 600 mg tablet,Antibiotics,350.0,Linezolid 600 mg,280.0,Common formulation / estimated seed data; verify
+Ceftriaxone 1 g injection,Antibiotics,100.0,Ceftriaxone 1 g,80.0,Common formulation / estimated seed data; verify
+Cefotaxime 1 g injection,Antibiotics,90.0,Cefotaxime 1 g,72.0,Common formulation / estimated seed data; verify
+Amikacin 500 mg injection,Antibiotics,70.0,Amikacin 500 mg,56.0,Common formulation / estimated seed data; verify
+Amoxicillin 250 mg capsule — pack variant 1,Antibiotics,35.0,Amoxicillin 250 mg,28.0,Common formulation / estimated seed data; verify
+Amoxicillin 500 mg capsule — pack variant 1,Antibiotics,55.0,Amoxicillin 500 mg,44.0,Common formulation / estimated seed data; verify
+Amoxicillin 125 mg/5 ml dry syrup — pack variant 1,Antibiotics,65.0,Amoxicillin 125 mg/5 ml,52.0,Common formulation / estimated seed data; verify
+Amoxicillin 250 mg/5 ml dry syrup — pack variant 1,Antibiotics,85.0,Amoxicillin 250 mg/5 ml,68.0,Common formulation / estimated seed data; verify
+Amoxicillin + Clavulanate 625 mg tablet — pack variant 1,Antibiotics,195.0,Amoxicillin 500 mg + Clavulanic acid 125 mg,156.0,Common formulation / estimated seed data; verify
+Amoxicillin + Clavulanate 375 mg tablet — pack variant 1,Antibiotics,150.0,Amoxicillin 250 mg + Clavulanic acid 125 mg,120.0,Common formulation / estimated seed data; verify
+Azithromycin 250 mg tablet — pack variant 1,Antibiotics,80.0,Azithromycin 250 mg,64.0,Common formulation / estimated seed data; verify
+Azithromycin 500 mg tablet — pack variant 1,Antibiotics,125.0,Azithromycin 500 mg,100.0,Common formulation / estimated seed data; verify
+Azithromycin 100 mg/5 ml suspension — pack variant 1,Antibiotics,65.0,Azithromycin 100 mg/5 ml,52.0,Common formulation / estimated seed data; verify
+Azithromycin 200 mg/5 ml suspension — pack variant 1,Antibiotics,80.0,Azithromycin 200 mg/5 ml,64.0,Common formulation / estimated seed data; verify
+Cefixime 100 mg tablet — pack variant 1,Antibiotics,75.0,Cefixime 100 mg,60.0,Common formulation / estimated seed data; verify
+Cefixime 200 mg tablet — pack variant 1,Antibiotics,120.0,Cefixime 200 mg,96.0,Common formulation / estimated seed data; verify
+Cefixime 50 mg/5 ml suspension — pack variant 1,Antibiotics,90.0,Cefixime 50 mg/5 ml,72.0,Common formulation / estimated seed data; verify
+Cefixime 100 mg/5 ml suspension — pack variant 1,Antibiotics,130.0,Cefixime 100 mg/5 ml,104.0,Common formulation / estimated seed data; verify
+Cefpodoxime 100 mg tablet — pack variant 1,Antibiotics,110.0,Cefpodoxime 100 mg,88.0,Common formulation / estimated seed data; verify
+Cefpodoxime 200 mg tablet — pack variant 1,Antibiotics,180.0,Cefpodoxime 200 mg,144.0,Common formulation / estimated seed data; verify
+Cefuroxime 250 mg tablet — pack variant 1,Antibiotics,120.0,Cefuroxime 250 mg,96.0,Common formulation / estimated seed data; verify
+Cefuroxime 500 mg tablet — pack variant 1,Antibiotics,190.0,Cefuroxime 500 mg,152.0,Common formulation / estimated seed data; verify
+Cephalexin 250 mg capsule — pack variant 1,Antibiotics,60.0,Cephalexin 250 mg,48.0,Common formulation / estimated seed data; verify
+Cephalexin 500 mg capsule — pack variant 1,Antibiotics,100.0,Cephalexin 500 mg,80.0,Common formulation / estimated seed data; verify
+Ciprofloxacin 250 mg tablet — pack variant 1,Antibiotics,35.0,Ciprofloxacin 250 mg,28.0,Common formulation / estimated seed data; verify
+RED AMM-SYRUP-200ML,Cough & Cold,135.0,Ammonium chloride-based expectorant; exact formula not legible in source,108.0,SP invoice / Rhombus booklet; verify composition
+ULT PRIXOL-SL-SYRUP-100ML,Cough & Cold,120.0,Cough syrup; exact composition not legible in source,96.0,SP invoice / Rhombus booklet; verify composition
+RHO LARYBRO-LS-SYRUP-100ML,Cough & Cold,107.5,Levosalbutamol + ambroxol + guaifenesin (likely LS formulation; verify pack),86.0,SP invoice / Rhombus booklet; verify composition
+RHO LARY TAB,Cough & Cold,44.06,Cough/cold tablet; exact composition not legible in source,35.25,SP invoice / Rhombus booklet; verify composition
+RHO CETINBRO SYRUP,Cough & Cold,90.0,Cetirizine + ambroxol (Rhombus catalogue composition),72.0,SP invoice / Rhombus booklet; verify composition
+RHO FROCIP SYRUP,Cough & Cold,65.0,Chlorpheniramine + phenylephrine (Rhombus catalogue composition),52.0,SP invoice / Rhombus booklet; verify composition
+CETINBRO Syrup,Cough & Cold,90.0,Cetirizine 2.5 mg + Ambroxol 30 mg/5 ml,72.0,Rhombus booklet; price estimated
+CETINBRO Tablet,Cough & Cold,100.0,Cetirizine 5 mg + Ambroxol 60 mg,80.0,Rhombus booklet; price estimated
+FROCIP Syrup,Cough & Cold,65.0,Chlorpheniramine maleate + Phenylephrine HCl,52.0,Rhombus booklet; price estimated
+Ambroxol 30 mg tablet,Cough & Cold,45.0,Ambroxol 30 mg,36.0,Common formulation / estimated seed data; verify
+Ambroxol 15 mg/5 ml syrup,Cough & Cold,65.0,Ambroxol 15 mg/5 ml,52.0,Common formulation / estimated seed data; verify
+Ambroxol + Guaifenesin syrup,Cough & Cold,95.0,Ambroxol + Guaifenesin,76.0,Common formulation / estimated seed data; verify
+Levosalbutamol + Ambroxol + Guaifenesin syrup,Cough & Cold,110.0,Levosalbutamol + Ambroxol + Guaifenesin,88.0,Common formulation / estimated seed data; verify
+Cetirizine 10 mg tablet,Cough & Cold,25.0,Cetirizine 10 mg,20.0,Common formulation / estimated seed data; verify
+Cetirizine 5 mg/5 ml syrup,Cough & Cold,55.0,Cetirizine 5 mg/5 ml,44.0,Common formulation / estimated seed data; verify
+Fexofenadine 120 mg tablet,Cough & Cold,95.0,Fexofenadine 120 mg,76.0,Common formulation / estimated seed data; verify
+Fexofenadine 180 mg tablet,Cough & Cold,130.0,Fexofenadine 180 mg,104.0,Common formulation / estimated seed data; verify
+Chlorpheniramine 4 mg tablet,Cough & Cold,20.0,Chlorpheniramine maleate 4 mg,16.0,Common formulation / estimated seed data; verify
+Phenylephrine + CPM syrup,Cough & Cold,60.0,Phenylephrine + Chlorpheniramine,48.0,Common formulation / estimated seed data; verify
+Dextromethorphan syrup,Cough & Cold,85.0,Dextromethorphan,68.0,Common formulation / estimated seed data; verify
+Guaifenesin syrup,Cough & Cold,70.0,Guaifenesin,56.0,Common formulation / estimated seed data; verify
+Bromhexine 8 mg tablet,Cough & Cold,35.0,Bromhexine 8 mg,28.0,Common formulation / estimated seed data; verify
+Bromhexine syrup,Cough & Cold,60.0,Bromhexine,48.0,Common formulation / estimated seed data; verify
+Salbutamol 2 mg tablet,Cough & Cold,25.0,Salbutamol 2 mg,20.0,Common formulation / estimated seed data; verify
+Salbutamol 2 mg/5 ml syrup,Cough & Cold,55.0,Salbutamol 2 mg/5 ml,44.0,Common formulation / estimated seed data; verify
+Montelukast 10 mg tablet,Cough & Cold,95.0,Montelukast 10 mg,76.0,Common formulation / estimated seed data; verify
+Montelukast + Levocetirizine tablet,Cough & Cold,125.0,Montelukast + Levocetirizine,100.0,Common formulation / estimated seed data; verify
+Levocetirizine 5 mg tablet,Cough & Cold,35.0,Levocetirizine 5 mg,28.0,Common formulation / estimated seed data; verify
+Paracetamol + Phenylephrine + CPM tablet,Cough & Cold,45.0,Paracetamol + Phenylephrine + Chlorpheniramine,36.0,Common formulation / estimated seed data; verify
+Nasal saline drops,Cough & Cold,35.0,Sodium chloride 0.9%,28.0,Common formulation / estimated seed data; verify
+Xylometazoline 0.1% nasal drops,Cough & Cold,55.0,Xylometazoline 0.1%,44.0,Common formulation / estimated seed data; verify
+Xylometazoline 0.05% nasal drops,Cough & Cold,45.0,Xylometazoline 0.05%,36.0,Common formulation / estimated seed data; verify
+Budesonide nebuliser suspension,Cough & Cold,150.0,Budesonide 0.5 mg,120.0,Common formulation / estimated seed data; verify
+Budesonide + Formoterol nebuliser suspension,Cough & Cold,180.0,Budesonide + Formoterol,144.0,Common formulation / estimated seed data; verify
+Ipratropium + Levosalbutamol respules,Cough & Cold,160.0,Ipratropium + Levosalbutamol,128.0,Common formulation / estimated seed data; verify
+Ambroxol 30 mg tablet — pack variant 1,Cough & Cold,45.0,Ambroxol 30 mg,36.0,Common formulation / estimated seed data; verify
+Ambroxol 15 mg/5 ml syrup — pack variant 1,Cough & Cold,65.0,Ambroxol 15 mg/5 ml,52.0,Common formulation / estimated seed data; verify
+Ambroxol + Guaifenesin syrup — pack variant 1,Cough & Cold,95.0,Ambroxol + Guaifenesin,76.0,Common formulation / estimated seed data; verify
+Levosalbutamol + Ambroxol + Guaifenesin syrup — pack variant 1,Cough & Cold,110.0,Levosalbutamol + Ambroxol + Guaifenesin,88.0,Common formulation / estimated seed data; verify
+Cetirizine 10 mg tablet — pack variant 1,Cough & Cold,25.0,Cetirizine 10 mg,20.0,Common formulation / estimated seed data; verify
+Cetirizine 5 mg/5 ml syrup — pack variant 1,Cough & Cold,55.0,Cetirizine 5 mg/5 ml,44.0,Common formulation / estimated seed data; verify
+Fexofenadine 120 mg tablet — pack variant 1,Cough & Cold,95.0,Fexofenadine 120 mg,76.0,Common formulation / estimated seed data; verify
+Fexofenadine 180 mg tablet — pack variant 1,Cough & Cold,130.0,Fexofenadine 180 mg,104.0,Common formulation / estimated seed data; verify
+Chlorpheniramine 4 mg tablet — pack variant 1,Cough & Cold,20.0,Chlorpheniramine maleate 4 mg,16.0,Common formulation / estimated seed data; verify
+Phenylephrine + CPM syrup — pack variant 1,Cough & Cold,60.0,Phenylephrine + Chlorpheniramine,48.0,Common formulation / estimated seed data; verify
+Dextromethorphan syrup — pack variant 1,Cough & Cold,85.0,Dextromethorphan,68.0,Common formulation / estimated seed data; verify
+Guaifenesin syrup — pack variant 1,Cough & Cold,70.0,Guaifenesin,56.0,Common formulation / estimated seed data; verify
+Bromhexine 8 mg tablet — pack variant 1,Cough & Cold,35.0,Bromhexine 8 mg,28.0,Common formulation / estimated seed data; verify
+Bromhexine syrup — pack variant 1,Cough & Cold,60.0,Bromhexine,48.0,Common formulation / estimated seed data; verify
+Salbutamol 2 mg tablet — pack variant 1,Cough & Cold,25.0,Salbutamol 2 mg,20.0,Common formulation / estimated seed data; verify
+Salbutamol 2 mg/5 ml syrup — pack variant 1,Cough & Cold,55.0,Salbutamol 2 mg/5 ml,44.0,Common formulation / estimated seed data; verify
+Montelukast 10 mg tablet — pack variant 1,Cough & Cold,95.0,Montelukast 10 mg,76.0,Common formulation / estimated seed data; verify
+Montelukast + Levocetirizine tablet — pack variant 1,Cough & Cold,125.0,Montelukast + Levocetirizine,100.0,Common formulation / estimated seed data; verify
+Levocetirizine 5 mg tablet — pack variant 1,Cough & Cold,35.0,Levocetirizine 5 mg,28.0,Common formulation / estimated seed data; verify
+Paracetamol + Phenylephrine + CPM tablet — pack variant 1,Cough & Cold,45.0,Paracetamol + Phenylephrine + Chlorpheniramine,36.0,Common formulation / estimated seed data; verify
+Nasal saline drops — pack variant 1,Cough & Cold,35.0,Sodium chloride 0.9%,28.0,Common formulation / estimated seed data; verify
+Xylometazoline 0.1% nasal drops — pack variant 1,Cough & Cold,55.0,Xylometazoline 0.1%,44.0,Common formulation / estimated seed data; verify
+Xylometazoline 0.05% nasal drops — pack variant 1,Cough & Cold,45.0,Xylometazoline 0.05%,36.0,Common formulation / estimated seed data; verify
+Budesonide nebuliser suspension — pack variant 1,Cough & Cold,150.0,Budesonide 0.5 mg,120.0,Common formulation / estimated seed data; verify
+Budesonide + Formoterol nebuliser suspension — pack variant 1,Cough & Cold,180.0,Budesonide + Formoterol,144.0,Common formulation / estimated seed data; verify
+Ipratropium + Levosalbutamol respules — pack variant 1,Cough & Cold,160.0,Ipratropium + Levosalbutamol,128.0,Common formulation / estimated seed data; verify
+Ambroxol 30 mg tablet — pack variant 2,Cough & Cold,50.0,Ambroxol 30 mg,40.0,Common formulation / estimated seed data; verify
+Ambroxol 15 mg/5 ml syrup — pack variant 2,Cough & Cold,70.0,Ambroxol 15 mg/5 ml,56.0,Common formulation / estimated seed data; verify
+Ambroxol + Guaifenesin syrup — pack variant 2,Cough & Cold,100.0,Ambroxol + Guaifenesin,80.0,Common formulation / estimated seed data; verify
+Levosalbutamol + Ambroxol + Guaifenesin syrup — pack variant 2,Cough & Cold,115.0,Levosalbutamol + Ambroxol + Guaifenesin,92.0,Common formulation / estimated seed data; verify
+Cetirizine 10 mg tablet — pack variant 2,Cough & Cold,30.0,Cetirizine 10 mg,24.0,Common formulation / estimated seed data; verify
+Cetirizine 5 mg/5 ml syrup — pack variant 2,Cough & Cold,60.0,Cetirizine 5 mg/5 ml,48.0,Common formulation / estimated seed data; verify
+Fexofenadine 120 mg tablet — pack variant 2,Cough & Cold,100.0,Fexofenadine 120 mg,80.0,Common formulation / estimated seed data; verify
+Fexofenadine 180 mg tablet — pack variant 2,Cough & Cold,135.0,Fexofenadine 180 mg,108.0,Common formulation / estimated seed data; verify
+Chlorpheniramine 4 mg tablet — pack variant 2,Cough & Cold,25.0,Chlorpheniramine maleate 4 mg,20.0,Common formulation / estimated seed data; verify
+Phenylephrine + CPM syrup — pack variant 2,Cough & Cold,65.0,Phenylephrine + Chlorpheniramine,52.0,Common formulation / estimated seed data; verify
+Dextromethorphan syrup — pack variant 2,Cough & Cold,90.0,Dextromethorphan,72.0,Common formulation / estimated seed data; verify
+Guaifenesin syrup — pack variant 2,Cough & Cold,75.0,Guaifenesin,60.0,Common formulation / estimated seed data; verify
+Bromhexine 8 mg tablet — pack variant 2,Cough & Cold,40.0,Bromhexine 8 mg,32.0,Common formulation / estimated seed data; verify
+Bromhexine syrup — pack variant 2,Cough & Cold,65.0,Bromhexine,52.0,Common formulation / estimated seed data; verify
+Salbutamol 2 mg tablet — pack variant 2,Cough & Cold,30.0,Salbutamol 2 mg,24.0,Common formulation / estimated seed data; verify
+Salbutamol 2 mg/5 ml syrup — pack variant 2,Cough & Cold,60.0,Salbutamol 2 mg/5 ml,48.0,Common formulation / estimated seed data; verify
+Montelukast 10 mg tablet — pack variant 2,Cough & Cold,100.0,Montelukast 10 mg,80.0,Common formulation / estimated seed data; verify
+Montelukast + Levocetirizine tablet — pack variant 2,Cough & Cold,130.0,Montelukast + Levocetirizine,104.0,Common formulation / estimated seed data; verify
+Levocetirizine 5 mg tablet — pack variant 2,Cough & Cold,40.0,Levocetirizine 5 mg,32.0,Common formulation / estimated seed data; verify
+Paracetamol + Phenylephrine + CPM tablet — pack variant 2,Cough & Cold,50.0,Paracetamol + Phenylephrine + Chlorpheniramine,40.0,Common formulation / estimated seed data; verify
+Nasal saline drops — pack variant 2,Cough & Cold,40.0,Sodium chloride 0.9%,32.0,Common formulation / estimated seed data; verify
+Xylometazoline 0.1% nasal drops — pack variant 2,Cough & Cold,60.0,Xylometazoline 0.1%,48.0,Common formulation / estimated seed data; verify
+Xylometazoline 0.05% nasal drops — pack variant 2,Cough & Cold,50.0,Xylometazoline 0.05%,40.0,Common formulation / estimated seed data; verify
+Budesonide nebuliser suspension — pack variant 2,Cough & Cold,155.0,Budesonide 0.5 mg,124.0,Common formulation / estimated seed data; verify
+Budesonide + Formoterol nebuliser suspension — pack variant 2,Cough & Cold,185.0,Budesonide + Formoterol,148.0,Common formulation / estimated seed data; verify
+Ipratropium + Levosalbutamol respules — pack variant 2,Cough & Cold,165.0,Ipratropium + Levosalbutamol,132.0,Common formulation / estimated seed data; verify
+Ambroxol 30 mg tablet — pack variant 3,Cough & Cold,55.0,Ambroxol 30 mg,44.0,Common formulation / estimated seed data; verify
+Ambroxol 15 mg/5 ml syrup — pack variant 3,Cough & Cold,75.0,Ambroxol 15 mg/5 ml,60.0,Common formulation / estimated seed data; verify
+Ambroxol + Guaifenesin syrup — pack variant 3,Cough & Cold,105.0,Ambroxol + Guaifenesin,84.0,Common formulation / estimated seed data; verify
+Levosalbutamol + Ambroxol + Guaifenesin syrup — pack variant 3,Cough & Cold,120.0,Levosalbutamol + Ambroxol + Guaifenesin,96.0,Common formulation / estimated seed data; verify
+Cetirizine 10 mg tablet — pack variant 3,Cough & Cold,35.0,Cetirizine 10 mg,28.0,Common formulation / estimated seed data; verify
+Cetirizine 5 mg/5 ml syrup — pack variant 3,Cough & Cold,65.0,Cetirizine 5 mg/5 ml,52.0,Common formulation / estimated seed data; verify
+Fexofenadine 120 mg tablet — pack variant 3,Cough & Cold,105.0,Fexofenadine 120 mg,84.0,Common formulation / estimated seed data; verify
+Fexofenadine 180 mg tablet — pack variant 3,Cough & Cold,140.0,Fexofenadine 180 mg,112.0,Common formulation / estimated seed data; verify
+Chlorpheniramine 4 mg tablet — pack variant 3,Cough & Cold,30.0,Chlorpheniramine maleate 4 mg,24.0,Common formulation / estimated seed data; verify
+Phenylephrine + CPM syrup — pack variant 3,Cough & Cold,70.0,Phenylephrine + Chlorpheniramine,56.0,Common formulation / estimated seed data; verify
+Dextromethorphan syrup — pack variant 3,Cough & Cold,95.0,Dextromethorphan,76.0,Common formulation / estimated seed data; verify
+Guaifenesin syrup — pack variant 3,Cough & Cold,80.0,Guaifenesin,64.0,Common formulation / estimated seed data; verify
+Bromhexine 8 mg tablet — pack variant 3,Cough & Cold,45.0,Bromhexine 8 mg,36.0,Common formulation / estimated seed data; verify
+RHO RUTUVEL-PLUS-SUSP-60ML,Pain & Fever,70.0,Paracetamol combination suspension; exact formula not legible in source,56.0,SP invoice / Rhombus booklet; verify composition
+RHO RUTUVEL 650 TAB,Pain & Fever,32.0,Paracetamol 650 mg (brand-name inference; verify pack),25.6,SP invoice / Rhombus booklet; verify composition
+PDC METHO PLUS TAB,Pain & Fever,160.0,Analgesic/anti-inflammatory combination; exact composition not legible in source,128.0,SP invoice / Rhombus booklet; verify composition
+RHO RUTUVEL 250 SUSP,Pain & Fever,42.5,Paracetamol suspension; exact strength/composition verify pack,34.0,SP invoice / Rhombus booklet; verify composition
+UNI RACE-SP TAB,Pain & Fever,92.5,Analgesic combination; exact composition not legible in source,74.0,SP invoice / Rhombus booklet; verify composition
+ACO PARASTED-IV INFUSION,Pain & Fever,460.0,Paracetamol IV infusion (product-name inference; verify pack),368.0,SP invoice / Rhombus booklet; verify composition
+RHO DAC-SP TAB,Pain & Fever,110.0,Diclofenac + paracetamol + serratiopeptidase (Rhombus catalogue composition),88.0,SP invoice / Rhombus booklet; verify composition
+RHO ETOROM-90 TAB,Pain & Fever,125.0,Etoricoxib 90 mg (Rhombus catalogue composition),100.0,SP invoice / Rhombus booklet; verify composition
+CHYROM Tablet,Pain & Fever,120.0,Trypsin + Chymotrypsin 100000 AU,96.0,Rhombus booklet; price estimated
+CHYROM PLUS Tablet,Pain & Fever,150.0,Trypsin + Bromelain + Rutoside + Diclofenac potassium,120.0,Rhombus booklet; price estimated
+DAC-SP Tablet,Pain & Fever,110.0,Diclofenac sodium + Paracetamol + Serratiopeptidase,88.0,Rhombus booklet; price estimated
+ETOROM-90 Tablet,Pain & Fever,125.0,Etoricoxib 90 mg,100.0,Rhombus booklet; price estimated
+Paracetamol 500 mg tablet,Pain & Fever,20.0,Paracetamol 500 mg,16.0,Common formulation / estimated seed data; verify
+Paracetamol 650 mg tablet,Pain & Fever,32.0,Paracetamol 650 mg,25.6,Common formulation / estimated seed data; verify
+Paracetamol 125 mg/5 ml suspension,Pain & Fever,40.0,Paracetamol 125 mg/5 ml,32.0,Common formulation / estimated seed data; verify
+Paracetamol 250 mg/5 ml suspension,Pain & Fever,55.0,Paracetamol 250 mg/5 ml,44.0,Common formulation / estimated seed data; verify
+Ibuprofen 200 mg tablet,Pain & Fever,25.0,Ibuprofen 200 mg,20.0,Common formulation / estimated seed data; verify
+Ibuprofen 400 mg tablet,Pain & Fever,35.0,Ibuprofen 400 mg,28.0,Common formulation / estimated seed data; verify
+Ibuprofen + Paracetamol tablet,Pain & Fever,45.0,Ibuprofen + Paracetamol,36.0,Common formulation / estimated seed data; verify
+Ibuprofen + Paracetamol suspension,Pain & Fever,60.0,Ibuprofen + Paracetamol,48.0,Common formulation / estimated seed data; verify
+Diclofenac 50 mg tablet,Pain & Fever,35.0,Diclofenac sodium 50 mg,28.0,Common formulation / estimated seed data; verify
+Diclofenac gel 1%,Pain & Fever,95.0,Diclofenac diethylamine 1%,76.0,Common formulation / estimated seed data; verify
+Diclofenac + Paracetamol tablet,Pain & Fever,50.0,Diclofenac + Paracetamol,40.0,Common formulation / estimated seed data; verify
+Diclofenac + Paracetamol + Serratiopeptidase,Pain & Fever,110.0,Diclofenac + Paracetamol + Serratiopeptidase,88.0,Common formulation / estimated seed data; verify
+Etoricoxib 60 mg tablet,Pain & Fever,100.0,Etoricoxib 60 mg,80.0,Common formulation / estimated seed data; verify
+Etoricoxib 90 mg tablet,Pain & Fever,125.0,Etoricoxib 90 mg,100.0,Common formulation / estimated seed data; verify
+Naproxen 250 mg tablet,Pain & Fever,40.0,Naproxen 250 mg,32.0,Common formulation / estimated seed data; verify
+Mefenamic acid 250 mg tablet,Pain & Fever,30.0,Mefenamic acid 250 mg,24.0,Common formulation / estimated seed data; verify
+Mefenamic acid + Paracetamol suspension,Pain & Fever,60.0,Mefenamic acid + Paracetamol,48.0,Common formulation / estimated seed data; verify
+Aceclofenac 100 mg tablet,Pain & Fever,45.0,Aceclofenac 100 mg,36.0,Common formulation / estimated seed data; verify
+Aceclofenac + Paracetamol tablet,Pain & Fever,55.0,Aceclofenac + Paracetamol,44.0,Common formulation / estimated seed data; verify
+Ketorolac 10 mg tablet,Pain & Fever,45.0,Ketorolac 10 mg,36.0,Common formulation / estimated seed data; verify
+Tramadol 50 mg tablet,Pain & Fever,80.0,Tramadol 50 mg,64.0,Common formulation / estimated seed data; verify
+Chlorzoxazone + Paracetamol tablet,Pain & Fever,60.0,Chlorzoxazone + Paracetamol,48.0,Common formulation / estimated seed data; verify
+Trypsin + Chymotrypsin tablet,Pain & Fever,120.0,Trypsin + Chymotrypsin,96.0,Common formulation / estimated seed data; verify
+Pain relief spray,Pain & Fever,130.0,Diclofenac + methyl salicylate + menthol,104.0,Common formulation / estimated seed data; verify
+Calamine lotion,Pain & Fever,80.0,Calamine,64.0,Common formulation / estimated seed data; verify
+Paracetamol IV infusion 1 g,Pain & Fever,100.0,Paracetamol 1 g/100 ml,80.0,Common formulation / estimated seed data; verify
+Paracetamol 500 mg tablet — pack variant 1,Pain & Fever,20.0,Paracetamol 500 mg,16.0,Common formulation / estimated seed data; verify
+Paracetamol 650 mg tablet — pack variant 1,Pain & Fever,32.0,Paracetamol 650 mg,25.6,Common formulation / estimated seed data; verify
+Paracetamol 125 mg/5 ml suspension — pack variant 1,Pain & Fever,40.0,Paracetamol 125 mg/5 ml,32.0,Common formulation / estimated seed data; verify
+Paracetamol 250 mg/5 ml suspension — pack variant 1,Pain & Fever,55.0,Paracetamol 250 mg/5 ml,44.0,Common formulation / estimated seed data; verify
+Ibuprofen 200 mg tablet — pack variant 1,Pain & Fever,25.0,Ibuprofen 200 mg,20.0,Common formulation / estimated seed data; verify
+Ibuprofen 400 mg tablet — pack variant 1,Pain & Fever,35.0,Ibuprofen 400 mg,28.0,Common formulation / estimated seed data; verify
+Ibuprofen + Paracetamol tablet — pack variant 1,Pain & Fever,45.0,Ibuprofen + Paracetamol,36.0,Common formulation / estimated seed data; verify
+Ibuprofen + Paracetamol suspension — pack variant 1,Pain & Fever,60.0,Ibuprofen + Paracetamol,48.0,Common formulation / estimated seed data; verify
+Diclofenac 50 mg tablet — pack variant 1,Pain & Fever,35.0,Diclofenac sodium 50 mg,28.0,Common formulation / estimated seed data; verify
+Diclofenac gel 1% — pack variant 1,Pain & Fever,95.0,Diclofenac diethylamine 1%,76.0,Common formulation / estimated seed data; verify
+Diclofenac + Paracetamol tablet — pack variant 1,Pain & Fever,50.0,Diclofenac + Paracetamol,40.0,Common formulation / estimated seed data; verify
+Diclofenac + Paracetamol + Serratiopeptidase — pack variant 1,Pain & Fever,110.0,Diclofenac + Paracetamol + Serratiopeptidase,88.0,Common formulation / estimated seed data; verify
+Etoricoxib 60 mg tablet — pack variant 1,Pain & Fever,100.0,Etoricoxib 60 mg,80.0,Common formulation / estimated seed data; verify
+Etoricoxib 90 mg tablet — pack variant 1,Pain & Fever,125.0,Etoricoxib 90 mg,100.0,Common formulation / estimated seed data; verify
+Naproxen 250 mg tablet — pack variant 1,Pain & Fever,40.0,Naproxen 250 mg,32.0,Common formulation / estimated seed data; verify
+Mefenamic acid 250 mg tablet — pack variant 1,Pain & Fever,30.0,Mefenamic acid 250 mg,24.0,Common formulation / estimated seed data; verify
+Mefenamic acid + Paracetamol suspension — pack variant 1,Pain & Fever,60.0,Mefenamic acid + Paracetamol,48.0,Common formulation / estimated seed data; verify
+Aceclofenac 100 mg tablet — pack variant 1,Pain & Fever,45.0,Aceclofenac 100 mg,36.0,Common formulation / estimated seed data; verify
+Aceclofenac + Paracetamol tablet — pack variant 1,Pain & Fever,55.0,Aceclofenac + Paracetamol,44.0,Common formulation / estimated seed data; verify
+Ketorolac 10 mg tablet — pack variant 1,Pain & Fever,45.0,Ketorolac 10 mg,36.0,Common formulation / estimated seed data; verify
+Tramadol 50 mg tablet — pack variant 1,Pain & Fever,80.0,Tramadol 50 mg,64.0,Common formulation / estimated seed data; verify
+Chlorzoxazone + Paracetamol tablet — pack variant 1,Pain & Fever,60.0,Chlorzoxazone + Paracetamol,48.0,Common formulation / estimated seed data; verify
+Trypsin + Chymotrypsin tablet — pack variant 1,Pain & Fever,120.0,Trypsin + Chymotrypsin,96.0,Common formulation / estimated seed data; verify
+Pain relief spray — pack variant 1,Pain & Fever,130.0,Diclofenac + methyl salicylate + menthol,104.0,Common formulation / estimated seed data; verify
+Calamine lotion — pack variant 1,Pain & Fever,80.0,Calamine,64.0,Common formulation / estimated seed data; verify
+Paracetamol IV infusion 1 g — pack variant 1,Pain & Fever,100.0,Paracetamol 1 g/100 ml,80.0,Common formulation / estimated seed data; verify
+Paracetamol 500 mg tablet — pack variant 2,Pain & Fever,25.0,Paracetamol 500 mg,20.0,Common formulation / estimated seed data; verify
+Paracetamol 650 mg tablet — pack variant 2,Pain & Fever,37.0,Paracetamol 650 mg,29.6,Common formulation / estimated seed data; verify
+Paracetamol 125 mg/5 ml suspension — pack variant 2,Pain & Fever,45.0,Paracetamol 125 mg/5 ml,36.0,Common formulation / estimated seed data; verify
+Paracetamol 250 mg/5 ml suspension — pack variant 2,Pain & Fever,60.0,Paracetamol 250 mg/5 ml,48.0,Common formulation / estimated seed data; verify
+Ibuprofen 200 mg tablet — pack variant 2,Pain & Fever,30.0,Ibuprofen 200 mg,24.0,Common formulation / estimated seed data; verify
+Ibuprofen 400 mg tablet — pack variant 2,Pain & Fever,40.0,Ibuprofen 400 mg,32.0,Common formulation / estimated seed data; verify
+Ibuprofen + Paracetamol tablet — pack variant 2,Pain & Fever,50.0,Ibuprofen + Paracetamol,40.0,Common formulation / estimated seed data; verify
+Ibuprofen + Paracetamol suspension — pack variant 2,Pain & Fever,65.0,Ibuprofen + Paracetamol,52.0,Common formulation / estimated seed data; verify
+Diclofenac 50 mg tablet — pack variant 2,Pain & Fever,40.0,Diclofenac sodium 50 mg,32.0,Common formulation / estimated seed data; verify
+Diclofenac gel 1% — pack variant 2,Pain & Fever,100.0,Diclofenac diethylamine 1%,80.0,Common formulation / estimated seed data; verify
+Diclofenac + Paracetamol tablet — pack variant 2,Pain & Fever,55.0,Diclofenac + Paracetamol,44.0,Common formulation / estimated seed data; verify
+Diclofenac + Paracetamol + Serratiopeptidase — pack variant 2,Pain & Fever,115.0,Diclofenac + Paracetamol + Serratiopeptidase,92.0,Common formulation / estimated seed data; verify
+Etoricoxib 60 mg tablet — pack variant 2,Pain & Fever,105.0,Etoricoxib 60 mg,84.0,Common formulation / estimated seed data; verify
+Etoricoxib 90 mg tablet — pack variant 2,Pain & Fever,130.0,Etoricoxib 90 mg,104.0,Common formulation / estimated seed data; verify
+Naproxen 250 mg tablet — pack variant 2,Pain & Fever,45.0,Naproxen 250 mg,36.0,Common formulation / estimated seed data; verify
+Mefenamic acid 250 mg tablet — pack variant 2,Pain & Fever,35.0,Mefenamic acid 250 mg,28.0,Common formulation / estimated seed data; verify
+Mefenamic acid + Paracetamol suspension — pack variant 2,Pain & Fever,65.0,Mefenamic acid + Paracetamol,52.0,Common formulation / estimated seed data; verify
+Aceclofenac 100 mg tablet — pack variant 2,Pain & Fever,50.0,Aceclofenac 100 mg,40.0,Common formulation / estimated seed data; verify
+Aceclofenac + Paracetamol tablet — pack variant 2,Pain & Fever,60.0,Aceclofenac + Paracetamol,48.0,Common formulation / estimated seed data; verify
+Ketorolac 10 mg tablet — pack variant 2,Pain & Fever,50.0,Ketorolac 10 mg,40.0,Common formulation / estimated seed data; verify
+Tramadol 50 mg tablet — pack variant 2,Pain & Fever,85.0,Tramadol 50 mg,68.0,Common formulation / estimated seed data; verify
+Chlorzoxazone + Paracetamol tablet — pack variant 2,Pain & Fever,65.0,Chlorzoxazone + Paracetamol,52.0,Common formulation / estimated seed data; verify
+Trypsin + Chymotrypsin tablet — pack variant 2,Pain & Fever,125.0,Trypsin + Chymotrypsin,100.0,Common formulation / estimated seed data; verify
+Pain relief spray — pack variant 2,Pain & Fever,135.0,Diclofenac + methyl salicylate + menthol,108.0,Common formulation / estimated seed data; verify
+Calamine lotion — pack variant 2,Pain & Fever,85.0,Calamine,68.0,Common formulation / estimated seed data; verify
+Paracetamol IV infusion 1 g — pack variant 2,Pain & Fever,105.0,Paracetamol 1 g/100 ml,84.0,Common formulation / estimated seed data; verify
+Paracetamol 500 mg tablet — pack variant 3,Pain & Fever,30.0,Paracetamol 500 mg,24.0,Common formulation / estimated seed data; verify
+Paracetamol 650 mg tablet — pack variant 3,Pain & Fever,42.0,Paracetamol 650 mg,33.6,Common formulation / estimated seed data; verify
+Paracetamol 125 mg/5 ml suspension — pack variant 3,Pain & Fever,50.0,Paracetamol 125 mg/5 ml,40.0,Common formulation / estimated seed data; verify
+Paracetamol 250 mg/5 ml suspension — pack variant 3,Pain & Fever,65.0,Paracetamol 250 mg/5 ml,52.0,Common formulation / estimated seed data; verify
+Ibuprofen 200 mg tablet — pack variant 3,Pain & Fever,35.0,Ibuprofen 200 mg,28.0,Common formulation / estimated seed data; verify
+Ibuprofen 400 mg tablet — pack variant 3,Pain & Fever,45.0,Ibuprofen 400 mg,36.0,Common formulation / estimated seed data; verify
+Ibuprofen + Paracetamol tablet — pack variant 3,Pain & Fever,55.0,Ibuprofen + Paracetamol,44.0,Common formulation / estimated seed data; verify
+Ibuprofen + Paracetamol suspension — pack variant 3,Pain & Fever,70.0,Ibuprofen + Paracetamol,56.0,Common formulation / estimated seed data; verify
+Diclofenac 50 mg tablet — pack variant 3,Pain & Fever,45.0,Diclofenac sodium 50 mg,36.0,Common formulation / estimated seed data; verify
+Diclofenac gel 1% — pack variant 3,Pain & Fever,105.0,Diclofenac diethylamine 1%,84.0,Common formulation / estimated seed data; verify
+RHO ROMBIFLOX OZ TAB,Gastrointestinal,97.5,Ofloxacin + Ornidazole (strength not legible in source),78.0,SP invoice / Rhombus booklet; verify composition
+RHO ROMBIPRA-DSR CAPS,Gastrointestinal,103.0,Rabeprazole + Domperidone SR (brand-name inference; verify pack),82.4,SP invoice / Rhombus booklet; verify composition
+RHO STABIGEL-O-SUSP-170ML,Gastrointestinal,157.0,Antacid/anti-flatulent suspension; exact formula not legible in source,125.6,SP invoice / Rhombus booklet; verify composition
+ULT ACONTOP-DSR CAP,Gastrointestinal,111.5,Acid-suppression + prokinetic combination; exact formula not legible in source,89.2,SP invoice / Rhombus booklet; verify composition
+RHO ALKIROM SYP,Gastrointestinal,102.0,Alkalinizing/antacid syrup; exact composition not legible in source,81.6,SP invoice / Rhombus booklet; verify composition
+RHO ALBUS-I TAB,Gastrointestinal,18.56,Digestive/antacid product; exact composition not legible in source,14.85,SP invoice / Rhombus booklet; verify composition
+RHO SILOCYP-SYRUP-200ML,Gastrointestinal,113.4,Digestive syrup; exact composition not legible in source,90.72,SP invoice / Rhombus booklet; verify composition
+MMG PANAT-IV-INJ,Gastrointestinal,53.0,Pantoprazole injection (brand-name inference; verify pack),42.4,SP invoice / Rhombus booklet; verify composition
+Pantoprazole 40 mg tablet,Gastrointestinal,70.0,Pantoprazole 40 mg,56.0,Common formulation / estimated seed data; verify
+Rabeprazole 20 mg tablet,Gastrointestinal,85.0,Rabeprazole 20 mg,68.0,Common formulation / estimated seed data; verify
+Omeprazole 20 mg capsule,Gastrointestinal,45.0,Omeprazole 20 mg,36.0,Common formulation / estimated seed data; verify
+Esomeprazole 40 mg tablet,Gastrointestinal,95.0,Esomeprazole 40 mg,76.0,Common formulation / estimated seed data; verify
+Pantoprazole + Domperidone capsule,Gastrointestinal,110.0,Pantoprazole + Domperidone,88.0,Common formulation / estimated seed data; verify
+Rabeprazole + Domperidone SR capsule,Gastrointestinal,103.0,Rabeprazole + Domperidone SR,82.4,Common formulation / estimated seed data; verify
+Domperidone 10 mg tablet,Gastrointestinal,35.0,Domperidone 10 mg,28.0,Common formulation / estimated seed data; verify
+Ondansetron 4 mg tablet,Gastrointestinal,30.0,Ondansetron 4 mg,24.0,Common formulation / estimated seed data; verify
+Ondansetron syrup,Gastrointestinal,55.0,Ondansetron,44.0,Common formulation / estimated seed data; verify
+ORS sachet,Gastrointestinal,20.0,Glucose + electrolytes,16.0,Common formulation / estimated seed data; verify
+Loperamide 2 mg capsule,Gastrointestinal,25.0,Loperamide 2 mg,20.0,Common formulation / estimated seed data; verify
+Lactulose syrup,Gastrointestinal,95.0,Lactulose,76.0,Common formulation / estimated seed data; verify
+Polyethylene glycol powder,Gastrointestinal,160.0,Polyethylene glycol,128.0,Common formulation / estimated seed data; verify
+Isabgol husk,Gastrointestinal,130.0,Psyllium husk,104.0,Common formulation / estimated seed data; verify
+Aluminium hydroxide + Magnesium hydroxide suspension,Gastrointestinal,90.0,Aluminium hydroxide + Magnesium hydroxide,72.0,Common formulation / estimated seed data; verify
+Antacid + Simethicone suspension,Gastrointestinal,95.0,Antacid + Simethicone,76.0,Common formulation / estimated seed data; verify
+Sucralfate 1 g tablet,Gastrointestinal,80.0,Sucralfate 1 g,64.0,Common formulation / estimated seed data; verify
+Sucralfate suspension,Gastrointestinal,120.0,Sucralfate,96.0,Common formulation / estimated seed data; verify
+Dicyclomine 10 mg tablet,Gastrointestinal,30.0,Dicyclomine 10 mg,24.0,Common formulation / estimated seed data; verify
+Dicyclomine + Paracetamol tablet,Gastrointestinal,45.0,Dicyclomine + Paracetamol,36.0,Common formulation / estimated seed data; verify
+Racecadotril 100 mg capsule,Gastrointestinal,100.0,Racecadotril 100 mg,80.0,Common formulation / estimated seed data; verify
+Probiotic capsule,Gastrointestinal,90.0,Lactobacillus spores,72.0,Common formulation / estimated seed data; verify
+Digestive enzyme syrup,Gastrointestinal,85.0,Digestive enzymes,68.0,Common formulation / estimated seed data; verify
+Simethicone drops,Gastrointestinal,60.0,Simethicone,48.0,Common formulation / estimated seed data; verify
+Bisacodyl 5 mg tablet,Gastrointestinal,25.0,Bisacodyl 5 mg,20.0,Common formulation / estimated seed data; verify
+Senna tablet,Gastrointestinal,35.0,Sennosides,28.0,Common formulation / estimated seed data; verify
+Metronidazole + Diloxanide tablet,Gastrointestinal,65.0,Metronidazole + Diloxanide furoate,52.0,Common formulation / estimated seed data; verify
+Rifaximin 200 mg tablet,Gastrointestinal,150.0,Rifaximin 200 mg,120.0,Common formulation / estimated seed data; verify
+Pantoprazole 40 mg tablet — pack variant 1,Gastrointestinal,70.0,Pantoprazole 40 mg,56.0,Common formulation / estimated seed data; verify
+Rabeprazole 20 mg tablet — pack variant 1,Gastrointestinal,85.0,Rabeprazole 20 mg,68.0,Common formulation / estimated seed data; verify
+Omeprazole 20 mg capsule — pack variant 1,Gastrointestinal,45.0,Omeprazole 20 mg,36.0,Common formulation / estimated seed data; verify
+Esomeprazole 40 mg tablet — pack variant 1,Gastrointestinal,95.0,Esomeprazole 40 mg,76.0,Common formulation / estimated seed data; verify
+Pantoprazole + Domperidone capsule — pack variant 1,Gastrointestinal,110.0,Pantoprazole + Domperidone,88.0,Common formulation / estimated seed data; verify
+Rabeprazole + Domperidone SR capsule — pack variant 1,Gastrointestinal,103.0,Rabeprazole + Domperidone SR,82.4,Common formulation / estimated seed data; verify
+Domperidone 10 mg tablet — pack variant 1,Gastrointestinal,35.0,Domperidone 10 mg,28.0,Common formulation / estimated seed data; verify
+Ondansetron 4 mg tablet — pack variant 1,Gastrointestinal,30.0,Ondansetron 4 mg,24.0,Common formulation / estimated seed data; verify
+Ondansetron syrup — pack variant 1,Gastrointestinal,55.0,Ondansetron,44.0,Common formulation / estimated seed data; verify
+ORS sachet — pack variant 1,Gastrointestinal,20.0,Glucose + electrolytes,16.0,Common formulation / estimated seed data; verify
+Loperamide 2 mg capsule — pack variant 1,Gastrointestinal,25.0,Loperamide 2 mg,20.0,Common formulation / estimated seed data; verify
+Lactulose syrup — pack variant 1,Gastrointestinal,95.0,Lactulose,76.0,Common formulation / estimated seed data; verify
+Polyethylene glycol powder — pack variant 1,Gastrointestinal,160.0,Polyethylene glycol,128.0,Common formulation / estimated seed data; verify
+Isabgol husk — pack variant 1,Gastrointestinal,130.0,Psyllium husk,104.0,Common formulation / estimated seed data; verify
+Aluminium hydroxide + Magnesium hydroxide suspension — pack variant 1,Gastrointestinal,90.0,Aluminium hydroxide + Magnesium hydroxide,72.0,Common formulation / estimated seed data; verify
+Antacid + Simethicone suspension — pack variant 1,Gastrointestinal,95.0,Antacid + Simethicone,76.0,Common formulation / estimated seed data; verify
+Sucralfate 1 g tablet — pack variant 1,Gastrointestinal,80.0,Sucralfate 1 g,64.0,Common formulation / estimated seed data; verify
+Sucralfate suspension — pack variant 1,Gastrointestinal,120.0,Sucralfate,96.0,Common formulation / estimated seed data; verify
+Dicyclomine 10 mg tablet — pack variant 1,Gastrointestinal,30.0,Dicyclomine 10 mg,24.0,Common formulation / estimated seed data; verify
+Dicyclomine + Paracetamol tablet — pack variant 1,Gastrointestinal,45.0,Dicyclomine + Paracetamol,36.0,Common formulation / estimated seed data; verify
+Racecadotril 100 mg capsule — pack variant 1,Gastrointestinal,100.0,Racecadotril 100 mg,80.0,Common formulation / estimated seed data; verify
+Probiotic capsule — pack variant 1,Gastrointestinal,90.0,Lactobacillus spores,72.0,Common formulation / estimated seed data; verify
+Digestive enzyme syrup — pack variant 1,Gastrointestinal,85.0,Digestive enzymes,68.0,Common formulation / estimated seed data; verify
+Simethicone drops — pack variant 1,Gastrointestinal,60.0,Simethicone,48.0,Common formulation / estimated seed data; verify
+Bisacodyl 5 mg tablet — pack variant 1,Gastrointestinal,25.0,Bisacodyl 5 mg,20.0,Common formulation / estimated seed data; verify
+Senna tablet — pack variant 1,Gastrointestinal,35.0,Sennosides,28.0,Common formulation / estimated seed data; verify
+Metronidazole + Diloxanide tablet — pack variant 1,Gastrointestinal,65.0,Metronidazole + Diloxanide furoate,52.0,Common formulation / estimated seed data; verify
+Rifaximin 200 mg tablet — pack variant 1,Gastrointestinal,150.0,Rifaximin 200 mg,120.0,Common formulation / estimated seed data; verify
+Pantoprazole 40 mg tablet — pack variant 2,Gastrointestinal,75.0,Pantoprazole 40 mg,60.0,Common formulation / estimated seed data; verify
+Rabeprazole 20 mg tablet — pack variant 2,Gastrointestinal,90.0,Rabeprazole 20 mg,72.0,Common formulation / estimated seed data; verify
+Omeprazole 20 mg capsule — pack variant 2,Gastrointestinal,50.0,Omeprazole 20 mg,40.0,Common formulation / estimated seed data; verify
+Esomeprazole 40 mg tablet — pack variant 2,Gastrointestinal,100.0,Esomeprazole 40 mg,80.0,Common formulation / estimated seed data; verify
+Pantoprazole + Domperidone capsule — pack variant 2,Gastrointestinal,115.0,Pantoprazole + Domperidone,92.0,Common formulation / estimated seed data; verify
+Rabeprazole + Domperidone SR capsule — pack variant 2,Gastrointestinal,108.0,Rabeprazole + Domperidone SR,86.4,Common formulation / estimated seed data; verify
+Domperidone 10 mg tablet — pack variant 2,Gastrointestinal,40.0,Domperidone 10 mg,32.0,Common formulation / estimated seed data; verify
+Ondansetron 4 mg tablet — pack variant 2,Gastrointestinal,35.0,Ondansetron 4 mg,28.0,Common formulation / estimated seed data; verify
+Ondansetron syrup — pack variant 2,Gastrointestinal,60.0,Ondansetron,48.0,Common formulation / estimated seed data; verify
+ORS sachet — pack variant 2,Gastrointestinal,25.0,Glucose + electrolytes,20.0,Common formulation / estimated seed data; verify
+Loperamide 2 mg capsule — pack variant 2,Gastrointestinal,30.0,Loperamide 2 mg,24.0,Common formulation / estimated seed data; verify
+Lactulose syrup — pack variant 2,Gastrointestinal,100.0,Lactulose,80.0,Common formulation / estimated seed data; verify
+Polyethylene glycol powder — pack variant 2,Gastrointestinal,165.0,Polyethylene glycol,132.0,Common formulation / estimated seed data; verify
+Isabgol husk — pack variant 2,Gastrointestinal,135.0,Psyllium husk,108.0,Common formulation / estimated seed data; verify
+Aluminium hydroxide + Magnesium hydroxide suspension — pack variant 2,Gastrointestinal,95.0,Aluminium hydroxide + Magnesium hydroxide,76.0,Common formulation / estimated seed data; verify
+Antacid + Simethicone suspension — pack variant 2,Gastrointestinal,100.0,Antacid + Simethicone,80.0,Common formulation / estimated seed data; verify
+Sucralfate 1 g tablet — pack variant 2,Gastrointestinal,85.0,Sucralfate 1 g,68.0,Common formulation / estimated seed data; verify
+Sucralfate suspension — pack variant 2,Gastrointestinal,125.0,Sucralfate,100.0,Common formulation / estimated seed data; verify
+Dicyclomine 10 mg tablet — pack variant 2,Gastrointestinal,35.0,Dicyclomine 10 mg,28.0,Common formulation / estimated seed data; verify
+Dicyclomine + Paracetamol tablet — pack variant 2,Gastrointestinal,50.0,Dicyclomine + Paracetamol,40.0,Common formulation / estimated seed data; verify
+Racecadotril 100 mg capsule — pack variant 2,Gastrointestinal,105.0,Racecadotril 100 mg,84.0,Common formulation / estimated seed data; verify
+Probiotic capsule — pack variant 2,Gastrointestinal,95.0,Lactobacillus spores,76.0,Common formulation / estimated seed data; verify
+Digestive enzyme syrup — pack variant 2,Gastrointestinal,90.0,Digestive enzymes,72.0,Common formulation / estimated seed data; verify
+Simethicone drops — pack variant 2,Gastrointestinal,65.0,Simethicone,52.0,Common formulation / estimated seed data; verify
+Bisacodyl 5 mg tablet — pack variant 2,Gastrointestinal,30.0,Bisacodyl 5 mg,24.0,Common formulation / estimated seed data; verify
+Senna tablet — pack variant 2,Gastrointestinal,40.0,Sennosides,32.0,Common formulation / estimated seed data; verify
+Metronidazole + Diloxanide tablet — pack variant 2,Gastrointestinal,70.0,Metronidazole + Diloxanide furoate,56.0,Common formulation / estimated seed data; verify
+Rifaximin 200 mg tablet — pack variant 2,Gastrointestinal,155.0,Rifaximin 200 mg,124.0,Common formulation / estimated seed data; verify
+Pantoprazole 40 mg tablet — pack variant 3,Gastrointestinal,80.0,Pantoprazole 40 mg,64.0,Common formulation / estimated seed data; verify
+Rabeprazole 20 mg tablet — pack variant 3,Gastrointestinal,95.0,Rabeprazole 20 mg,76.0,Common formulation / estimated seed data; verify
+Omeprazole 20 mg capsule — pack variant 3,Gastrointestinal,55.0,Omeprazole 20 mg,44.0,Common formulation / estimated seed data; verify
+Esomeprazole 40 mg tablet — pack variant 3,Gastrointestinal,105.0,Esomeprazole 40 mg,84.0,Common formulation / estimated seed data; verify
+Pantoprazole + Domperidone capsule — pack variant 3,Gastrointestinal,120.0,Pantoprazole + Domperidone,96.0,Common formulation / estimated seed data; verify
+Rabeprazole + Domperidone SR capsule — pack variant 3,Gastrointestinal,113.0,Rabeprazole + Domperidone SR,90.4,Common formulation / estimated seed data; verify
+Domperidone 10 mg tablet — pack variant 3,Gastrointestinal,45.0,Domperidone 10 mg,36.0,Common formulation / estimated seed data; verify
+Ondansetron 4 mg tablet — pack variant 3,Gastrointestinal,40.0,Ondansetron 4 mg,32.0,Common formulation / estimated seed data; verify
+LEO VITAROM-C TAB,Vitamins & Supplements,56.0,Vitamin C + multivitamin formulation; exact composition not legible in source,44.8,SP invoice / Rhombus booklet; verify composition
+RED FILL-XT SYRUP-200ML,Vitamins & Supplements,124.6,Iron/folate supplement likely; verify pack,99.68,SP invoice / Rhombus booklet; verify composition
+BLI A-PHAR-2 SYRUP,Vitamins & Supplements,145.0,Nutritional supplement; exact composition not legible in source,116.0,SP invoice / Rhombus booklet; verify composition
+GEN ULVIT 200ML,Vitamins & Supplements,106.8,Multivitamin syrup; exact composition not legible in source,85.44,SP invoice / Rhombus booklet; verify composition
+RHO CALCIROM TAB,Vitamins & Supplements,87.55,Calcium supplement; exact composition not legible in source,70.04,SP invoice / Rhombus booklet; verify composition
+RHO AMMTAB,Vitamins & Supplements,83.11,Antioxidant + multivitamins + multiminerals (Rhombus catalogue composition),66.49,SP invoice / Rhombus booklet; verify composition
+RHO ASCOROM TAB,Vitamins & Supplements,90.0,Ferrous ascorbate + folic acid (Rhombus catalogue composition),72.0,SP invoice / Rhombus booklet; verify composition
+RHO ASCOROM SUSP,Vitamins & Supplements,100.0,Ferrous ascorbate + folic acid suspension (Rhombus catalogue composition),80.0,SP invoice / Rhombus booklet; verify composition
+AMMTAB,Vitamins & Supplements,83.11,Antioxidant + multivitamins + multiminerals,66.49,Rhombus booklet; price estimated
+ASCOROM Tablet,Vitamins & Supplements,90.0,Ferrous ascorbate + folic acid,72.0,Rhombus booklet; price estimated
+ASCOROM Suspension,Vitamins & Supplements,100.0,Ferrous ascorbate + folic acid,80.0,Rhombus booklet; price estimated
+Multivitamin tablet,Vitamins & Supplements,85.0,Multivitamins + multiminerals,68.0,Common formulation / estimated seed data; verify
+Vitamin C 500 mg tablet,Vitamins & Supplements,50.0,Ascorbic acid 500 mg,40.0,Common formulation / estimated seed data; verify
+Vitamin D3 60000 IU sachet,Vitamins & Supplements,35.0,Cholecalciferol 60000 IU,28.0,Common formulation / estimated seed data; verify
+Calcium + Vitamin D3 tablet,Vitamins & Supplements,110.0,Calcium carbonate + Cholecalciferol,88.0,Common formulation / estimated seed data; verify
+Ferrous ascorbate + folic acid tablet,Vitamins & Supplements,90.0,Ferrous ascorbate + folic acid,72.0,Common formulation / estimated seed data; verify
+Ferrous fumarate + folic acid capsule,Vitamins & Supplements,75.0,Ferrous fumarate + folic acid,60.0,Common formulation / estimated seed data; verify
+Zinc 20 mg tablet,Vitamins & Supplements,35.0,Zinc 20 mg,28.0,Common formulation / estimated seed data; verify
+Zinc syrup,Vitamins & Supplements,60.0,Zinc gluconate,48.0,Common formulation / estimated seed data; verify
+Vitamin B-complex tablet,Vitamins & Supplements,40.0,B-complex vitamins,32.0,Common formulation / estimated seed data; verify
+Vitamin B12 1500 mcg tablet,Vitamins & Supplements,110.0,Methylcobalamin 1500 mcg,88.0,Common formulation / estimated seed data; verify
+Folic acid 5 mg tablet,Vitamins & Supplements,25.0,Folic acid 5 mg,20.0,Common formulation / estimated seed data; verify
+Iron + folic acid syrup,Vitamins & Supplements,90.0,Iron + folic acid,72.0,Common formulation / estimated seed data; verify
+Protein powder 200 g,Vitamins & Supplements,250.0,Protein blend,200.0,Common formulation / estimated seed data; verify
+Omega-3 capsule,Vitamins & Supplements,180.0,Omega-3 fatty acids,144.0,Common formulation / estimated seed data; verify
+Vitamin E 400 IU capsule,Vitamins & Supplements,90.0,Tocopheryl acetate 400 IU,72.0,Common formulation / estimated seed data; verify
+Magnesium + Vitamin B6 tablet,Vitamins & Supplements,95.0,Magnesium + Pyridoxine,76.0,Common formulation / estimated seed data; verify
+Pediatric multivitamin drops,Vitamins & Supplements,65.0,Multivitamins,52.0,Common formulation / estimated seed data; verify
+Multivitamin syrup 200 ml,Vitamins & Supplements,110.0,Multivitamins + multiminerals,88.0,Common formulation / estimated seed data; verify
+L-lysine + multivitamin syrup,Vitamins & Supplements,125.0,L-lysine + multivitamins,100.0,Common formulation / estimated seed data; verify
+Calcium suspension,Vitamins & Supplements,95.0,Calcium supplement,76.0,Common formulation / estimated seed data; verify
+Biotin 5 mg tablet,Vitamins & Supplements,120.0,Biotin 5 mg,96.0,Common formulation / estimated seed data; verify
+Vitamin A + D drops,Vitamins & Supplements,70.0,Vitamins A + D,56.0,Common formulation / estimated seed data; verify
+Electrolyte solution,Vitamins & Supplements,35.0,Dextrose + electrolytes,28.0,Common formulation / estimated seed data; verify
+Nutritional supplement powder,Vitamins & Supplements,280.0,Protein + vitamins + minerals,224.0,Common formulation / estimated seed data; verify
+Multivitamin tablet — pack variant 1,Vitamins & Supplements,85.0,Multivitamins + multiminerals,68.0,Common formulation / estimated seed data; verify
+Vitamin C 500 mg tablet — pack variant 1,Vitamins & Supplements,50.0,Ascorbic acid 500 mg,40.0,Common formulation / estimated seed data; verify
+Vitamin D3 60000 IU sachet — pack variant 1,Vitamins & Supplements,35.0,Cholecalciferol 60000 IU,28.0,Common formulation / estimated seed data; verify
+Calcium + Vitamin D3 tablet — pack variant 1,Vitamins & Supplements,110.0,Calcium carbonate + Cholecalciferol,88.0,Common formulation / estimated seed data; verify
+Ferrous ascorbate + folic acid tablet — pack variant 1,Vitamins & Supplements,90.0,Ferrous ascorbate + folic acid,72.0,Common formulation / estimated seed data; verify
+Ferrous fumarate + folic acid capsule — pack variant 1,Vitamins & Supplements,75.0,Ferrous fumarate + folic acid,60.0,Common formulation / estimated seed data; verify
+Zinc 20 mg tablet — pack variant 1,Vitamins & Supplements,35.0,Zinc 20 mg,28.0,Common formulation / estimated seed data; verify
+Zinc syrup — pack variant 1,Vitamins & Supplements,60.0,Zinc gluconate,48.0,Common formulation / estimated seed data; verify
+Vitamin B-complex tablet — pack variant 1,Vitamins & Supplements,40.0,B-complex vitamins,32.0,Common formulation / estimated seed data; verify
+Vitamin B12 1500 mcg tablet — pack variant 1,Vitamins & Supplements,110.0,Methylcobalamin 1500 mcg,88.0,Common formulation / estimated seed data; verify
+Folic acid 5 mg tablet — pack variant 1,Vitamins & Supplements,25.0,Folic acid 5 mg,20.0,Common formulation / estimated seed data; verify
+Iron + folic acid syrup — pack variant 1,Vitamins & Supplements,90.0,Iron + folic acid,72.0,Common formulation / estimated seed data; verify
+Protein powder 200 g — pack variant 1,Vitamins & Supplements,250.0,Protein blend,200.0,Common formulation / estimated seed data; verify
+Omega-3 capsule — pack variant 1,Vitamins & Supplements,180.0,Omega-3 fatty acids,144.0,Common formulation / estimated seed data; verify
+Vitamin E 400 IU capsule — pack variant 1,Vitamins & Supplements,90.0,Tocopheryl acetate 400 IU,72.0,Common formulation / estimated seed data; verify
+Magnesium + Vitamin B6 tablet — pack variant 1,Vitamins & Supplements,95.0,Magnesium + Pyridoxine,76.0,Common formulation / estimated seed data; verify
+Pediatric multivitamin drops — pack variant 1,Vitamins & Supplements,65.0,Multivitamins,52.0,Common formulation / estimated seed data; verify
+Multivitamin syrup 200 ml — pack variant 1,Vitamins & Supplements,110.0,Multivitamins + multiminerals,88.0,Common formulation / estimated seed data; verify
+L-lysine + multivitamin syrup — pack variant 1,Vitamins & Supplements,125.0,L-lysine + multivitamins,100.0,Common formulation / estimated seed data; verify
+Calcium suspension — pack variant 1,Vitamins & Supplements,95.0,Calcium supplement,76.0,Common formulation / estimated seed data; verify
+Biotin 5 mg tablet — pack variant 1,Vitamins & Supplements,120.0,Biotin 5 mg,96.0,Common formulation / estimated seed data; verify
+Vitamin A + D drops — pack variant 1,Vitamins & Supplements,70.0,Vitamins A + D,56.0,Common formulation / estimated seed data; verify
+Electrolyte solution — pack variant 1,Vitamins & Supplements,35.0,Dextrose + electrolytes,28.0,Common formulation / estimated seed data; verify
+Nutritional supplement powder — pack variant 1,Vitamins & Supplements,280.0,Protein + vitamins + minerals,224.0,Common formulation / estimated seed data; verify
+Multivitamin tablet — pack variant 2,Vitamins & Supplements,90.0,Multivitamins + multiminerals,72.0,Common formulation / estimated seed data; verify
+Vitamin C 500 mg tablet — pack variant 2,Vitamins & Supplements,55.0,Ascorbic acid 500 mg,44.0,Common formulation / estimated seed data; verify
+Vitamin D3 60000 IU sachet — pack variant 2,Vitamins & Supplements,40.0,Cholecalciferol 60000 IU,32.0,Common formulation / estimated seed data; verify
+Calcium + Vitamin D3 tablet — pack variant 2,Vitamins & Supplements,115.0,Calcium carbonate + Cholecalciferol,92.0,Common formulation / estimated seed data; verify
+Ferrous ascorbate + folic acid tablet — pack variant 2,Vitamins & Supplements,95.0,Ferrous ascorbate + folic acid,76.0,Common formulation / estimated seed data; verify
+Ferrous fumarate + folic acid capsule — pack variant 2,Vitamins & Supplements,80.0,Ferrous fumarate + folic acid,64.0,Common formulation / estimated seed data; verify
+Zinc 20 mg tablet — pack variant 2,Vitamins & Supplements,40.0,Zinc 20 mg,32.0,Common formulation / estimated seed data; verify
+Zinc syrup — pack variant 2,Vitamins & Supplements,65.0,Zinc gluconate,52.0,Common formulation / estimated seed data; verify
+Vitamin B-complex tablet — pack variant 2,Vitamins & Supplements,45.0,B-complex vitamins,36.0,Common formulation / estimated seed data; verify
+Vitamin B12 1500 mcg tablet — pack variant 2,Vitamins & Supplements,115.0,Methylcobalamin 1500 mcg,92.0,Common formulation / estimated seed data; verify
+Folic acid 5 mg tablet — pack variant 2,Vitamins & Supplements,30.0,Folic acid 5 mg,24.0,Common formulation / estimated seed data; verify
+Iron + folic acid syrup — pack variant 2,Vitamins & Supplements,95.0,Iron + folic acid,76.0,Common formulation / estimated seed data; verify
+Protein powder 200 g — pack variant 2,Vitamins & Supplements,255.0,Protein blend,204.0,Common formulation / estimated seed data; verify
+Omega-3 capsule — pack variant 2,Vitamins & Supplements,185.0,Omega-3 fatty acids,148.0,Common formulation / estimated seed data; verify
+Vitamin E 400 IU capsule — pack variant 2,Vitamins & Supplements,95.0,Tocopheryl acetate 400 IU,76.0,Common formulation / estimated seed data; verify
+Magnesium + Vitamin B6 tablet — pack variant 2,Vitamins & Supplements,100.0,Magnesium + Pyridoxine,80.0,Common formulation / estimated seed data; verify
+Pediatric multivitamin drops — pack variant 2,Vitamins & Supplements,70.0,Multivitamins,56.0,Common formulation / estimated seed data; verify
+Multivitamin syrup 200 ml — pack variant 2,Vitamins & Supplements,115.0,Multivitamins + multiminerals,92.0,Common formulation / estimated seed data; verify
+L-lysine + multivitamin syrup — pack variant 2,Vitamins & Supplements,130.0,L-lysine + multivitamins,104.0,Common formulation / estimated seed data; verify
+Calcium suspension — pack variant 2,Vitamins & Supplements,100.0,Calcium supplement,80.0,Common formulation / estimated seed data; verify
+Biotin 5 mg tablet — pack variant 2,Vitamins & Supplements,125.0,Biotin 5 mg,100.0,Common formulation / estimated seed data; verify
+Vitamin A + D drops — pack variant 2,Vitamins & Supplements,75.0,Vitamins A + D,60.0,Common formulation / estimated seed data; verify
+Electrolyte solution — pack variant 2,Vitamins & Supplements,40.0,Dextrose + electrolytes,32.0,Common formulation / estimated seed data; verify
+Nutritional supplement powder — pack variant 2,Vitamins & Supplements,285.0,Protein + vitamins + minerals,228.0,Common formulation / estimated seed data; verify
+Multivitamin tablet — pack variant 3,Vitamins & Supplements,95.0,Multivitamins + multiminerals,76.0,Common formulation / estimated seed data; verify
+Vitamin C 500 mg tablet — pack variant 3,Vitamins & Supplements,60.0,Ascorbic acid 500 mg,48.0,Common formulation / estimated seed data; verify
+Vitamin D3 60000 IU sachet — pack variant 3,Vitamins & Supplements,45.0,Cholecalciferol 60000 IU,36.0,Common formulation / estimated seed data; verify
+Calcium + Vitamin D3 tablet — pack variant 3,Vitamins & Supplements,120.0,Calcium carbonate + Cholecalciferol,96.0,Common formulation / estimated seed data; verify
+Ferrous ascorbate + folic acid tablet — pack variant 3,Vitamins & Supplements,100.0,Ferrous ascorbate + folic acid,80.0,Common formulation / estimated seed data; verify
+Ferrous fumarate + folic acid capsule — pack variant 3,Vitamins & Supplements,85.0,Ferrous fumarate + folic acid,68.0,Common formulation / estimated seed data; verify
+Zinc 20 mg tablet — pack variant 3,Vitamins & Supplements,45.0,Zinc 20 mg,36.0,Common formulation / estimated seed data; verify
+Zinc syrup — pack variant 3,Vitamins & Supplements,70.0,Zinc gluconate,56.0,Common formulation / estimated seed data; verify
+Vitamin B-complex tablet — pack variant 3,Vitamins & Supplements,50.0,B-complex vitamins,40.0,Common formulation / estimated seed data; verify
+Vitamin B12 1500 mcg tablet — pack variant 3,Vitamins & Supplements,120.0,Methylcobalamin 1500 mcg,96.0,Common formulation / estimated seed data; verify
+Folic acid 5 mg tablet — pack variant 3,Vitamins & Supplements,35.0,Folic acid 5 mg,28.0,Common formulation / estimated seed data; verify
+Iron + folic acid syrup — pack variant 3,Vitamins & Supplements,100.0,Iron + folic acid,80.0,Common formulation / estimated seed data; verify
+Protein powder 200 g — pack variant 3,Vitamins & Supplements,260.0,Protein blend,208.0,Common formulation / estimated seed data; verify
+Omega-3 capsule — pack variant 3,Vitamins & Supplements,190.0,Omega-3 fatty acids,152.0,Common formulation / estimated seed data; verify
+Vitamin E 400 IU capsule — pack variant 3,Vitamins & Supplements,100.0,Tocopheryl acetate 400 IU,80.0,Common formulation / estimated seed data; verify
+Magnesium + Vitamin B6 tablet — pack variant 3,Vitamins & Supplements,105.0,Magnesium + Pyridoxine,84.0,Common formulation / estimated seed data; verify
+Pediatric multivitamin drops — pack variant 3,Vitamins & Supplements,75.0,Multivitamins,60.0,Common formulation / estimated seed data; verify
+MAS RECMONT-SUSPENSION-60ML,Antiallergic,118.0,Montelukast-based suspension (brand-name inference; verify pack),94.4,SP invoice / Rhombus booklet; verify composition
+OXF RECMONT-TAB,Antiallergic,118.5,Montelukast-based tablet (brand-name inference; verify pack),94.8,SP invoice / Rhombus booklet; verify composition
+ANC RECMONT-KID TAB,Antiallergic,75.0,Montelukast-based pediatric tablet (brand-name inference; verify pack),60.0,SP invoice / Rhombus booklet; verify composition
+RHO FEXOBUS-120 TAB,Antiallergic,95.0,Fexofenadine 120 mg (Rhombus catalogue composition),76.0,SP invoice / Rhombus booklet; verify composition
+FEXOBUS-120 Tablet,Antiallergic,95.0,Fexofenadine 120 mg,76.0,Rhombus booklet; price estimated
+FEXOBUS-180 Tablet,Antiallergic,130.0,Fexofenadine 180 mg,104.0,Rhombus booklet; price estimated
+Cetirizine 10 mg tablet,Antiallergic,25.0,Cetirizine 10 mg,20.0,Common formulation / estimated seed data; verify
+Levocetirizine 5 mg tablet,Antiallergic,35.0,Levocetirizine 5 mg,28.0,Common formulation / estimated seed data; verify
+Fexofenadine 120 mg tablet,Antiallergic,95.0,Fexofenadine 120 mg,76.0,Common formulation / estimated seed data; verify
+Fexofenadine 180 mg tablet,Antiallergic,130.0,Fexofenadine 180 mg,104.0,Common formulation / estimated seed data; verify
+Montelukast 10 mg tablet,Antiallergic,95.0,Montelukast 10 mg,76.0,Common formulation / estimated seed data; verify
+Montelukast + Levocetirizine tablet,Antiallergic,125.0,Montelukast + Levocetirizine,100.0,Common formulation / estimated seed data; verify
+Loratadine 10 mg tablet,Antiallergic,35.0,Loratadine 10 mg,28.0,Common formulation / estimated seed data; verify
+Desloratadine 5 mg tablet,Antiallergic,65.0,Desloratadine 5 mg,52.0,Common formulation / estimated seed data; verify
+Chlorpheniramine 4 mg tablet,Antiallergic,20.0,Chlorpheniramine maleate 4 mg,16.0,Common formulation / estimated seed data; verify
+Bilastine 20 mg tablet,Antiallergic,110.0,Bilastine 20 mg,88.0,Common formulation / estimated seed data; verify
+Cetirizine syrup,Antiallergic,55.0,Cetirizine,44.0,Common formulation / estimated seed data; verify
+Levocetirizine syrup,Antiallergic,60.0,Levocetirizine,48.0,Common formulation / estimated seed data; verify
+Hydroxyzine 10 mg tablet,Antiallergic,35.0,Hydroxyzine 10 mg,28.0,Common formulation / estimated seed data; verify
+Hydroxyzine syrup,Antiallergic,60.0,Hydroxyzine,48.0,Common formulation / estimated seed data; verify
+Fexofenadine suspension,Antiallergic,100.0,Fexofenadine,80.0,Common formulation / estimated seed data; verify
+Mometasone nasal spray,Antiallergic,180.0,Mometasone furoate,144.0,Common formulation / estimated seed data; verify
+Fluticasone nasal spray,Antiallergic,220.0,Fluticasone propionate,176.0,Common formulation / estimated seed data; verify
+Sodium cromoglycate eye drops,Antiallergic,100.0,Sodium cromoglycate,80.0,Common formulation / estimated seed data; verify
+Calamine lotion,Antiallergic,80.0,Calamine,64.0,Common formulation / estimated seed data; verify
+Prednisolone 5 mg tablet,Antiallergic,25.0,Prednisolone 5 mg,20.0,Common formulation / estimated seed data; verify
+Cetirizine 10 mg tablet — pack variant 1,Antiallergic,25.0,Cetirizine 10 mg,20.0,Common formulation / estimated seed data; verify
+Levocetirizine 5 mg tablet — pack variant 1,Antiallergic,35.0,Levocetirizine 5 mg,28.0,Common formulation / estimated seed data; verify
+Fexofenadine 120 mg tablet — pack variant 1,Antiallergic,95.0,Fexofenadine 120 mg,76.0,Common formulation / estimated seed data; verify
+Fexofenadine 180 mg tablet — pack variant 1,Antiallergic,130.0,Fexofenadine 180 mg,104.0,Common formulation / estimated seed data; verify
+Montelukast 10 mg tablet — pack variant 1,Antiallergic,95.0,Montelukast 10 mg,76.0,Common formulation / estimated seed data; verify
+Montelukast + Levocetirizine tablet — pack variant 1,Antiallergic,125.0,Montelukast + Levocetirizine,100.0,Common formulation / estimated seed data; verify
+Loratadine 10 mg tablet — pack variant 1,Antiallergic,35.0,Loratadine 10 mg,28.0,Common formulation / estimated seed data; verify
+Desloratadine 5 mg tablet — pack variant 1,Antiallergic,65.0,Desloratadine 5 mg,52.0,Common formulation / estimated seed data; verify
+Chlorpheniramine 4 mg tablet — pack variant 1,Antiallergic,20.0,Chlorpheniramine maleate 4 mg,16.0,Common formulation / estimated seed data; verify
+Bilastine 20 mg tablet — pack variant 1,Antiallergic,110.0,Bilastine 20 mg,88.0,Common formulation / estimated seed data; verify
+Cetirizine syrup — pack variant 1,Antiallergic,55.0,Cetirizine,44.0,Common formulation / estimated seed data; verify
+Levocetirizine syrup — pack variant 1,Antiallergic,60.0,Levocetirizine,48.0,Common formulation / estimated seed data; verify
+Hydroxyzine 10 mg tablet — pack variant 1,Antiallergic,35.0,Hydroxyzine 10 mg,28.0,Common formulation / estimated seed data; verify
+Hydroxyzine syrup — pack variant 1,Antiallergic,60.0,Hydroxyzine,48.0,Common formulation / estimated seed data; verify
+Fexofenadine suspension — pack variant 1,Antiallergic,100.0,Fexofenadine,80.0,Common formulation / estimated seed data; verify
+Mometasone nasal spray — pack variant 1,Antiallergic,180.0,Mometasone furoate,144.0,Common formulation / estimated seed data; verify
+Fluticasone nasal spray — pack variant 1,Antiallergic,220.0,Fluticasone propionate,176.0,Common formulation / estimated seed data; verify
+Sodium cromoglycate eye drops — pack variant 1,Antiallergic,100.0,Sodium cromoglycate,80.0,Common formulation / estimated seed data; verify
+Calamine lotion — pack variant 1,Antiallergic,80.0,Calamine,64.0,Common formulation / estimated seed data; verify
+Prednisolone 5 mg tablet — pack variant 1,Antiallergic,25.0,Prednisolone 5 mg,20.0,Common formulation / estimated seed data; verify
+Cetirizine 10 mg tablet — pack variant 2,Antiallergic,30.0,Cetirizine 10 mg,24.0,Common formulation / estimated seed data; verify
+Levocetirizine 5 mg tablet — pack variant 2,Antiallergic,40.0,Levocetirizine 5 mg,32.0,Common formulation / estimated seed data; verify
+Fexofenadine 120 mg tablet — pack variant 2,Antiallergic,100.0,Fexofenadine 120 mg,80.0,Common formulation / estimated seed data; verify
+Fexofenadine 180 mg tablet — pack variant 2,Antiallergic,135.0,Fexofenadine 180 mg,108.0,Common formulation / estimated seed data; verify
+Montelukast 10 mg tablet — pack variant 2,Antiallergic,100.0,Montelukast 10 mg,80.0,Common formulation / estimated seed data; verify
+Montelukast + Levocetirizine tablet — pack variant 2,Antiallergic,130.0,Montelukast + Levocetirizine,104.0,Common formulation / estimated seed data; verify
+Loratadine 10 mg tablet — pack variant 2,Antiallergic,40.0,Loratadine 10 mg,32.0,Common formulation / estimated seed data; verify
+Desloratadine 5 mg tablet — pack variant 2,Antiallergic,70.0,Desloratadine 5 mg,56.0,Common formulation / estimated seed data; verify
+Chlorpheniramine 4 mg tablet — pack variant 2,Antiallergic,25.0,Chlorpheniramine maleate 4 mg,20.0,Common formulation / estimated seed data; verify
+Bilastine 20 mg tablet — pack variant 2,Antiallergic,115.0,Bilastine 20 mg,92.0,Common formulation / estimated seed data; verify
+Cetirizine syrup — pack variant 2,Antiallergic,60.0,Cetirizine,48.0,Common formulation / estimated seed data; verify
+Levocetirizine syrup — pack variant 2,Antiallergic,65.0,Levocetirizine,52.0,Common formulation / estimated seed data; verify
+Hydroxyzine 10 mg tablet — pack variant 2,Antiallergic,40.0,Hydroxyzine 10 mg,32.0,Common formulation / estimated seed data; verify
+Hydroxyzine syrup — pack variant 2,Antiallergic,65.0,Hydroxyzine,52.0,Common formulation / estimated seed data; verify
+Fexofenadine suspension — pack variant 2,Antiallergic,105.0,Fexofenadine,84.0,Common formulation / estimated seed data; verify
+Mometasone nasal spray — pack variant 2,Antiallergic,185.0,Mometasone furoate,148.0,Common formulation / estimated seed data; verify
+Fluticasone nasal spray — pack variant 2,Antiallergic,225.0,Fluticasone propionate,180.0,Common formulation / estimated seed data; verify
+Sodium cromoglycate eye drops — pack variant 2,Antiallergic,105.0,Sodium cromoglycate,84.0,Common formulation / estimated seed data; verify
+Calamine lotion — pack variant 2,Antiallergic,85.0,Calamine,68.0,Common formulation / estimated seed data; verify
+Prednisolone 5 mg tablet — pack variant 2,Antiallergic,30.0,Prednisolone 5 mg,24.0,Common formulation / estimated seed data; verify
+Cetirizine 10 mg tablet — pack variant 3,Antiallergic,35.0,Cetirizine 10 mg,28.0,Common formulation / estimated seed data; verify
+Levocetirizine 5 mg tablet — pack variant 3,Antiallergic,45.0,Levocetirizine 5 mg,36.0,Common formulation / estimated seed data; verify
+Fexofenadine 120 mg tablet — pack variant 3,Antiallergic,105.0,Fexofenadine 120 mg,84.0,Common formulation / estimated seed data; verify
+Fexofenadine 180 mg tablet — pack variant 3,Antiallergic,140.0,Fexofenadine 180 mg,112.0,Common formulation / estimated seed data; verify
+Montelukast 10 mg tablet — pack variant 3,Antiallergic,105.0,Montelukast 10 mg,84.0,Common formulation / estimated seed data; verify
+Montelukast + Levocetirizine tablet — pack variant 3,Antiallergic,135.0,Montelukast + Levocetirizine,108.0,Common formulation / estimated seed data; verify
+Loratadine 10 mg tablet — pack variant 3,Antiallergic,45.0,Loratadine 10 mg,36.0,Common formulation / estimated seed data; verify
+Desloratadine 5 mg tablet — pack variant 3,Antiallergic,75.0,Desloratadine 5 mg,60.0,Common formulation / estimated seed data; verify
+Chlorpheniramine 4 mg tablet — pack variant 3,Antiallergic,30.0,Chlorpheniramine maleate 4 mg,24.0,Common formulation / estimated seed data; verify
+Bilastine 20 mg tablet — pack variant 3,Antiallergic,120.0,Bilastine 20 mg,96.0,Common formulation / estimated seed data; verify
+Cetirizine syrup — pack variant 3,Antiallergic,65.0,Cetirizine,52.0,Common formulation / estimated seed data; verify
+Levocetirizine syrup — pack variant 3,Antiallergic,70.0,Levocetirizine,56.0,Common formulation / estimated seed data; verify
+Hydroxyzine 10 mg tablet — pack variant 3,Antiallergic,45.0,Hydroxyzine 10 mg,36.0,Common formulation / estimated seed data; verify
+Hydroxyzine syrup — pack variant 3,Antiallergic,70.0,Hydroxyzine,56.0,Common formulation / estimated seed data; verify
+Fexofenadine suspension — pack variant 3,Antiallergic,110.0,Fexofenadine,88.0,Common formulation / estimated seed data; verify
+Mometasone nasal spray — pack variant 3,Antiallergic,190.0,Mometasone furoate,152.0,Common formulation / estimated seed data; verify
+Fluticasone nasal spray — pack variant 3,Antiallergic,230.0,Fluticasone propionate,184.0,Common formulation / estimated seed data; verify
+Sodium cromoglycate eye drops — pack variant 3,Antiallergic,110.0,Sodium cromoglycate,88.0,Common formulation / estimated seed data; verify
+Calamine lotion — pack variant 3,Antiallergic,90.0,Calamine,72.0,Common formulation / estimated seed data; verify
+Prednisolone 5 mg tablet — pack variant 3,Antiallergic,35.0,Prednisolone 5 mg,28.0,Common formulation / estimated seed data; verify
+Cetirizine 10 mg tablet — pack variant 4,Antiallergic,40.0,Cetirizine 10 mg,32.0,Common formulation / estimated seed data; verify
+Levocetirizine 5 mg tablet — pack variant 4,Antiallergic,50.0,Levocetirizine 5 mg,40.0,Common formulation / estimated seed data; verify
+Fexofenadine 120 mg tablet — pack variant 4,Antiallergic,110.0,Fexofenadine 120 mg,88.0,Common formulation / estimated seed data; verify
+Fexofenadine 180 mg tablet — pack variant 4,Antiallergic,145.0,Fexofenadine 180 mg,116.0,Common formulation / estimated seed data; verify
+Montelukast 10 mg tablet — pack variant 4,Antiallergic,110.0,Montelukast 10 mg,88.0,Common formulation / estimated seed data; verify
+Montelukast + Levocetirizine tablet — pack variant 4,Antiallergic,140.0,Montelukast + Levocetirizine,112.0,Common formulation / estimated seed data; verify
+Loratadine 10 mg tablet — pack variant 4,Antiallergic,50.0,Loratadine 10 mg,40.0,Common formulation / estimated seed data; verify
+Desloratadine 5 mg tablet — pack variant 4,Antiallergic,80.0,Desloratadine 5 mg,64.0,Common formulation / estimated seed data; verify
+Chlorpheniramine 4 mg tablet — pack variant 4,Antiallergic,35.0,Chlorpheniramine maleate 4 mg,28.0,Common formulation / estimated seed data; verify
+Bilastine 20 mg tablet — pack variant 4,Antiallergic,125.0,Bilastine 20 mg,100.0,Common formulation / estimated seed data; verify
+Cetirizine syrup — pack variant 4,Antiallergic,70.0,Cetirizine,56.0,Common formulation / estimated seed data; verify
+Levocetirizine syrup — pack variant 4,Antiallergic,75.0,Levocetirizine,60.0,Common formulation / estimated seed data; verify
+Hydroxyzine 10 mg tablet — pack variant 4,Antiallergic,50.0,Hydroxyzine 10 mg,40.0,Common formulation / estimated seed data; verify
+Hydroxyzine syrup — pack variant 4,Antiallergic,75.0,Hydroxyzine,60.0,Common formulation / estimated seed data; verify
+OFTER-OZ CREAM,Dermatology,84.38,Topical antimicrobial/antifungal combination; exact formula not legible in source,67.5,SP invoice / Rhombus booklet; verify composition
+Clotrimazole 1% cream,Dermatology,45.0,Clotrimazole 1%,36.0,Common formulation / estimated seed data; verify
+Terbinafine 1% cream,Dermatology,95.0,Terbinafine 1%,76.0,Common formulation / estimated seed data; verify
+Miconazole 2% cream,Dermatology,70.0,Miconazole 2%,56.0,Common formulation / estimated seed data; verify
+Ketoconazole 2% cream,Dermatology,90.0,Ketoconazole 2%,72.0,Common formulation / estimated seed data; verify
+Clotrimazole dusting powder,Dermatology,75.0,Clotrimazole,60.0,Common formulation / estimated seed data; verify
+Permethrin 5% cream,Dermatology,90.0,Permethrin 5%,72.0,Common formulation / estimated seed data; verify
+Acyclovir 5% cream,Dermatology,75.0,Acyclovir 5%,60.0,Common formulation / estimated seed data; verify
+Mupirocin 2% ointment,Dermatology,110.0,Mupirocin 2%,88.0,Common formulation / estimated seed data; verify
+Fusidic acid cream,Dermatology,120.0,Fusidic acid,96.0,Common formulation / estimated seed data; verify
+Povidone iodine ointment,Dermatology,85.0,Povidone iodine,68.0,Common formulation / estimated seed data; verify
+Hydrocortisone 1% cream,Dermatology,45.0,Hydrocortisone 1%,36.0,Common formulation / estimated seed data; verify
+Betamethasone cream,Dermatology,65.0,Betamethasone valerate,52.0,Common formulation / estimated seed data; verify
+Clobetasol 0.05% cream,Dermatology,75.0,Clobetasol propionate 0.05%,60.0,Common formulation / estimated seed data; verify
+Calamine lotion,Dermatology,80.0,Calamine,64.0,Common formulation / estimated seed data; verify
+Benzoyl peroxide 2.5% gel,Dermatology,95.0,Benzoyl peroxide 2.5%,76.0,Common formulation / estimated seed data; verify
+Adapalene 0.1% gel,Dermatology,130.0,Adapalene 0.1%,104.0,Common formulation / estimated seed data; verify
+Salicylic acid ointment,Dermatology,75.0,Salicylic acid,60.0,Common formulation / estimated seed data; verify
+Silver sulfadiazine 1% cream,Dermatology,100.0,Silver sulfadiazine 1%,80.0,Common formulation / estimated seed data; verify
+Luliconazole 1% cream,Dermatology,150.0,Luliconazole 1%,120.0,Common formulation / estimated seed data; verify
+Clotrimazole + Beclomethasone cream,Dermatology,85.0,Clotrimazole + Beclomethasone,68.0,Common formulation / estimated seed data; verify
+Ofloxacin + Ornidazole cream,Dermatology,85.0,Ofloxacin + Ornidazole,68.0,Common formulation / estimated seed data; verify
+Moisturizing lotion,Dermatology,140.0,Emollients,112.0,Common formulation / estimated seed data; verify
+Zinc oxide cream,Dermatology,60.0,Zinc oxide,48.0,Common formulation / estimated seed data; verify
+Antiseptic solution,Dermatology,75.0,Chlorhexidine,60.0,Common formulation / estimated seed data; verify
+Clotrimazole 1% cream — pack variant 1,Dermatology,45.0,Clotrimazole 1%,36.0,Common formulation / estimated seed data; verify
+Terbinafine 1% cream — pack variant 1,Dermatology,95.0,Terbinafine 1%,76.0,Common formulation / estimated seed data; verify
+Miconazole 2% cream — pack variant 1,Dermatology,70.0,Miconazole 2%,56.0,Common formulation / estimated seed data; verify
+Ketoconazole 2% cream — pack variant 1,Dermatology,90.0,Ketoconazole 2%,72.0,Common formulation / estimated seed data; verify
+Clotrimazole dusting powder — pack variant 1,Dermatology,75.0,Clotrimazole,60.0,Common formulation / estimated seed data; verify
+Permethrin 5% cream — pack variant 1,Dermatology,90.0,Permethrin 5%,72.0,Common formulation / estimated seed data; verify
+Acyclovir 5% cream — pack variant 1,Dermatology,75.0,Acyclovir 5%,60.0,Common formulation / estimated seed data; verify
+Mupirocin 2% ointment — pack variant 1,Dermatology,110.0,Mupirocin 2%,88.0,Common formulation / estimated seed data; verify
+Fusidic acid cream — pack variant 1,Dermatology,120.0,Fusidic acid,96.0,Common formulation / estimated seed data; verify
+Povidone iodine ointment — pack variant 1,Dermatology,85.0,Povidone iodine,68.0,Common formulation / estimated seed data; verify
+Hydrocortisone 1% cream — pack variant 1,Dermatology,45.0,Hydrocortisone 1%,36.0,Common formulation / estimated seed data; verify
+Betamethasone cream — pack variant 1,Dermatology,65.0,Betamethasone valerate,52.0,Common formulation / estimated seed data; verify
+Clobetasol 0.05% cream — pack variant 1,Dermatology,75.0,Clobetasol propionate 0.05%,60.0,Common formulation / estimated seed data; verify
+Calamine lotion — pack variant 1,Dermatology,80.0,Calamine,64.0,Common formulation / estimated seed data; verify
+Benzoyl peroxide 2.5% gel — pack variant 1,Dermatology,95.0,Benzoyl peroxide 2.5%,76.0,Common formulation / estimated seed data; verify
+Adapalene 0.1% gel — pack variant 1,Dermatology,130.0,Adapalene 0.1%,104.0,Common formulation / estimated seed data; verify
+Salicylic acid ointment — pack variant 1,Dermatology,75.0,Salicylic acid,60.0,Common formulation / estimated seed data; verify
+Silver sulfadiazine 1% cream — pack variant 1,Dermatology,100.0,Silver sulfadiazine 1%,80.0,Common formulation / estimated seed data; verify
+Luliconazole 1% cream — pack variant 1,Dermatology,150.0,Luliconazole 1%,120.0,Common formulation / estimated seed data; verify
+Clotrimazole + Beclomethasone cream — pack variant 1,Dermatology,85.0,Clotrimazole + Beclomethasone,68.0,Common formulation / estimated seed data; verify
+Ofloxacin + Ornidazole cream — pack variant 1,Dermatology,85.0,Ofloxacin + Ornidazole,68.0,Common formulation / estimated seed data; verify
+Moisturizing lotion — pack variant 1,Dermatology,140.0,Emollients,112.0,Common formulation / estimated seed data; verify
+Zinc oxide cream — pack variant 1,Dermatology,60.0,Zinc oxide,48.0,Common formulation / estimated seed data; verify
+Antiseptic solution — pack variant 1,Dermatology,75.0,Chlorhexidine,60.0,Common formulation / estimated seed data; verify
+Clotrimazole 1% cream — pack variant 2,Dermatology,50.0,Clotrimazole 1%,40.0,Common formulation / estimated seed data; verify
+Terbinafine 1% cream — pack variant 2,Dermatology,100.0,Terbinafine 1%,80.0,Common formulation / estimated seed data; verify
+Miconazole 2% cream — pack variant 2,Dermatology,75.0,Miconazole 2%,60.0,Common formulation / estimated seed data; verify
+Ketoconazole 2% cream — pack variant 2,Dermatology,95.0,Ketoconazole 2%,76.0,Common formulation / estimated seed data; verify
+Clotrimazole dusting powder — pack variant 2,Dermatology,80.0,Clotrimazole,64.0,Common formulation / estimated seed data; verify
+Permethrin 5% cream — pack variant 2,Dermatology,95.0,Permethrin 5%,76.0,Common formulation / estimated seed data; verify
+Acyclovir 5% cream — pack variant 2,Dermatology,80.0,Acyclovir 5%,64.0,Common formulation / estimated seed data; verify
+Mupirocin 2% ointment — pack variant 2,Dermatology,115.0,Mupirocin 2%,92.0,Common formulation / estimated seed data; verify
+Fusidic acid cream — pack variant 2,Dermatology,125.0,Fusidic acid,100.0,Common formulation / estimated seed data; verify
+Povidone iodine ointment — pack variant 2,Dermatology,90.0,Povidone iodine,72.0,Common formulation / estimated seed data; verify
+Hydrocortisone 1% cream — pack variant 2,Dermatology,50.0,Hydrocortisone 1%,40.0,Common formulation / estimated seed data; verify
+Betamethasone cream — pack variant 2,Dermatology,70.0,Betamethasone valerate,56.0,Common formulation / estimated seed data; verify
+Clobetasol 0.05% cream — pack variant 2,Dermatology,80.0,Clobetasol propionate 0.05%,64.0,Common formulation / estimated seed data; verify
+Calamine lotion — pack variant 2,Dermatology,85.0,Calamine,68.0,Common formulation / estimated seed data; verify
+Benzoyl peroxide 2.5% gel — pack variant 2,Dermatology,100.0,Benzoyl peroxide 2.5%,80.0,Common formulation / estimated seed data; verify
+Adapalene 0.1% gel — pack variant 2,Dermatology,135.0,Adapalene 0.1%,108.0,Common formulation / estimated seed data; verify
+Salicylic acid ointment — pack variant 2,Dermatology,80.0,Salicylic acid,64.0,Common formulation / estimated seed data; verify
+Silver sulfadiazine 1% cream — pack variant 2,Dermatology,105.0,Silver sulfadiazine 1%,84.0,Common formulation / estimated seed data; verify
+Luliconazole 1% cream — pack variant 2,Dermatology,155.0,Luliconazole 1%,124.0,Common formulation / estimated seed data; verify
+Clotrimazole + Beclomethasone cream — pack variant 2,Dermatology,90.0,Clotrimazole + Beclomethasone,72.0,Common formulation / estimated seed data; verify
+Ofloxacin + Ornidazole cream — pack variant 2,Dermatology,90.0,Ofloxacin + Ornidazole,72.0,Common formulation / estimated seed data; verify
+Moisturizing lotion — pack variant 2,Dermatology,145.0,Emollients,116.0,Common formulation / estimated seed data; verify
+Zinc oxide cream — pack variant 2,Dermatology,65.0,Zinc oxide,52.0,Common formulation / estimated seed data; verify
+Antiseptic solution — pack variant 2,Dermatology,80.0,Chlorhexidine,64.0,Common formulation / estimated seed data; verify
+Clotrimazole 1% cream — pack variant 3,Dermatology,55.0,Clotrimazole 1%,44.0,Common formulation / estimated seed data; verify
+Terbinafine 1% cream — pack variant 3,Dermatology,105.0,Terbinafine 1%,84.0,Common formulation / estimated seed data; verify
+Miconazole 2% cream — pack variant 3,Dermatology,80.0,Miconazole 2%,64.0,Common formulation / estimated seed data; verify
+Ketoconazole 2% cream — pack variant 3,Dermatology,100.0,Ketoconazole 2%,80.0,Common formulation / estimated seed data; verify
+Clotrimazole dusting powder — pack variant 3,Dermatology,85.0,Clotrimazole,68.0,Common formulation / estimated seed data; verify
+Permethrin 5% cream — pack variant 3,Dermatology,100.0,Permethrin 5%,80.0,Common formulation / estimated seed data; verify
+Acyclovir 5% cream — pack variant 3,Dermatology,85.0,Acyclovir 5%,68.0,Common formulation / estimated seed data; verify
+Mupirocin 2% ointment — pack variant 3,Dermatology,120.0,Mupirocin 2%,96.0,Common formulation / estimated seed data; verify
+Fusidic acid cream — pack variant 3,Dermatology,130.0,Fusidic acid,104.0,Common formulation / estimated seed data; verify
+Povidone iodine ointment — pack variant 3,Dermatology,95.0,Povidone iodine,76.0,Common formulation / estimated seed data; verify
+Hydrocortisone 1% cream — pack variant 3,Dermatology,55.0,Hydrocortisone 1%,44.0,Common formulation / estimated seed data; verify
+Betamethasone cream — pack variant 3,Dermatology,75.0,Betamethasone valerate,60.0,Common formulation / estimated seed data; verify
+Clobetasol 0.05% cream — pack variant 3,Dermatology,85.0,Clobetasol propionate 0.05%,68.0,Common formulation / estimated seed data; verify
+Calamine lotion — pack variant 3,Dermatology,90.0,Calamine,72.0,Common formulation / estimated seed data; verify
+Benzoyl peroxide 2.5% gel — pack variant 3,Dermatology,105.0,Benzoyl peroxide 2.5%,84.0,Common formulation / estimated seed data; verify
+Adapalene 0.1% gel — pack variant 3,Dermatology,140.0,Adapalene 0.1%,112.0,Common formulation / estimated seed data; verify
+Salicylic acid ointment — pack variant 3,Dermatology,85.0,Salicylic acid,68.0,Common formulation / estimated seed data; verify
+Silver sulfadiazine 1% cream — pack variant 3,Dermatology,110.0,Silver sulfadiazine 1%,88.0,Common formulation / estimated seed data; verify
+Luliconazole 1% cream — pack variant 3,Dermatology,160.0,Luliconazole 1%,128.0,Common formulation / estimated seed data; verify
+Clotrimazole + Beclomethasone cream — pack variant 3,Dermatology,95.0,Clotrimazole + Beclomethasone,76.0,Common formulation / estimated seed data; verify
+Ofloxacin + Ornidazole cream — pack variant 3,Dermatology,95.0,Ofloxacin + Ornidazole,76.0,Common formulation / estimated seed data; verify
+Moisturizing lotion — pack variant 3,Dermatology,150.0,Emollients,120.0,Common formulation / estimated seed data; verify
+Zinc oxide cream — pack variant 3,Dermatology,70.0,Zinc oxide,56.0,Common formulation / estimated seed data; verify
+Antiseptic solution — pack variant 3,Dermatology,85.0,Chlorhexidine,68.0,Common formulation / estimated seed data; verify
+Clotrimazole 1% cream — pack variant 4,Dermatology,60.0,Clotrimazole 1%,48.0,Common formulation / estimated seed data; verify
+Terbinafine 1% cream — pack variant 4,Dermatology,110.0,Terbinafine 1%,88.0,Common formulation / estimated seed data; verify
+Miconazole 2% cream — pack variant 4,Dermatology,85.0,Miconazole 2%,68.0,Common formulation / estimated seed data; verify
+SHI XYNOSE-ADULT NASAL-DROP,Eye/Ear/Nasal,53.72,Nasal decongestant; exact ingredient not legible in source,42.98,SP invoice / Rhombus booklet; verify composition
+EL MOXIRIO-D EYE DROPS-5ML,Eye/Ear/Nasal,125.0,Moxifloxacin + dexamethasone eye drops (brand-name inference; verify pack),100.0,SP invoice / Rhombus booklet; verify composition
+SHI GENIMOX EYE DROPS-5ML,Eye/Ear/Nasal,70.31,Antibiotic eye drops; exact ingredient not legible in source,56.25,SP invoice / Rhombus booklet; verify composition
+Moxifloxacin 0.5% eye drops,Eye/Ear/Nasal,95.0,Moxifloxacin 0.5%,76.0,Common formulation / estimated seed data; verify
+Tobramycin 0.3% eye drops,Eye/Ear/Nasal,85.0,Tobramycin 0.3%,68.0,Common formulation / estimated seed data; verify
+Chloramphenicol eye drops,Eye/Ear/Nasal,45.0,Chloramphenicol,36.0,Common formulation / estimated seed data; verify
+Carboxymethylcellulose eye drops,Eye/Ear/Nasal,110.0,Carboxymethylcellulose,88.0,Common formulation / estimated seed data; verify
+Moxifloxacin + Dexamethasone eye drops,Eye/Ear/Nasal,125.0,Moxifloxacin + Dexamethasone,100.0,Common formulation / estimated seed data; verify
+Olopatadine eye drops,Eye/Ear/Nasal,130.0,Olopatadine,104.0,Common formulation / estimated seed data; verify
+Ketotifen eye drops,Eye/Ear/Nasal,100.0,Ketotifen,80.0,Common formulation / estimated seed data; verify
+Ciprofloxacin ear drops,Eye/Ear/Nasal,65.0,Ciprofloxacin,52.0,Common formulation / estimated seed data; verify
+Ofloxacin ear drops,Eye/Ear/Nasal,70.0,Ofloxacin,56.0,Common formulation / estimated seed data; verify
+Wax-softening ear drops,Eye/Ear/Nasal,80.0,Carbamide peroxide,64.0,Common formulation / estimated seed data; verify
+Sodium chloride nasal drops,Eye/Ear/Nasal,35.0,Sodium chloride 0.9%,28.0,Common formulation / estimated seed data; verify
+Xylometazoline 0.1% nasal drops,Eye/Ear/Nasal,55.0,Xylometazoline 0.1%,44.0,Common formulation / estimated seed data; verify
+Xylometazoline 0.05% nasal drops,Eye/Ear/Nasal,45.0,Xylometazoline 0.05%,36.0,Common formulation / estimated seed data; verify
+Oxymetazoline nasal spray,Eye/Ear/Nasal,85.0,Oxymetazoline,68.0,Common formulation / estimated seed data; verify
+Fluticasone nasal spray,Eye/Ear/Nasal,220.0,Fluticasone propionate,176.0,Common formulation / estimated seed data; verify
+Mometasone nasal spray,Eye/Ear/Nasal,180.0,Mometasone furoate,144.0,Common formulation / estimated seed data; verify
+Artificial tears,Eye/Ear/Nasal,85.0,Hypromellose,68.0,Common formulation / estimated seed data; verify
+Latanoprost eye drops,Eye/Ear/Nasal,250.0,Latanoprost,200.0,Common formulation / estimated seed data; verify
+Timolol eye drops,Eye/Ear/Nasal,90.0,Timolol maleate,72.0,Common formulation / estimated seed data; verify
+Brimonidine eye drops,Eye/Ear/Nasal,160.0,Brimonidine tartrate,128.0,Common formulation / estimated seed data; verify
+Dexamethasone eye drops,Eye/Ear/Nasal,60.0,Dexamethasone,48.0,Common formulation / estimated seed data; verify
+Naphazoline eye drops,Eye/Ear/Nasal,45.0,Naphazoline,36.0,Common formulation / estimated seed data; verify
+Ear antiseptic drops,Eye/Ear/Nasal,60.0,Antiseptic combination,48.0,Common formulation / estimated seed data; verify
+Saline nasal spray,Eye/Ear/Nasal,75.0,Sodium chloride 0.9%,60.0,Common formulation / estimated seed data; verify
+Moxifloxacin 0.5% eye drops — pack variant 1,Eye/Ear/Nasal,95.0,Moxifloxacin 0.5%,76.0,Common formulation / estimated seed data; verify
+Tobramycin 0.3% eye drops — pack variant 1,Eye/Ear/Nasal,85.0,Tobramycin 0.3%,68.0,Common formulation / estimated seed data; verify
+Chloramphenicol eye drops — pack variant 1,Eye/Ear/Nasal,45.0,Chloramphenicol,36.0,Common formulation / estimated seed data; verify
+Carboxymethylcellulose eye drops — pack variant 1,Eye/Ear/Nasal,110.0,Carboxymethylcellulose,88.0,Common formulation / estimated seed data; verify
+Moxifloxacin + Dexamethasone eye drops — pack variant 1,Eye/Ear/Nasal,125.0,Moxifloxacin + Dexamethasone,100.0,Common formulation / estimated seed data; verify
+Olopatadine eye drops — pack variant 1,Eye/Ear/Nasal,130.0,Olopatadine,104.0,Common formulation / estimated seed data; verify
+Ketotifen eye drops — pack variant 1,Eye/Ear/Nasal,100.0,Ketotifen,80.0,Common formulation / estimated seed data; verify
+Ciprofloxacin ear drops — pack variant 1,Eye/Ear/Nasal,65.0,Ciprofloxacin,52.0,Common formulation / estimated seed data; verify
+Ofloxacin ear drops — pack variant 1,Eye/Ear/Nasal,70.0,Ofloxacin,56.0,Common formulation / estimated seed data; verify
+Wax-softening ear drops — pack variant 1,Eye/Ear/Nasal,80.0,Carbamide peroxide,64.0,Common formulation / estimated seed data; verify
+Sodium chloride nasal drops — pack variant 1,Eye/Ear/Nasal,35.0,Sodium chloride 0.9%,28.0,Common formulation / estimated seed data; verify
+Xylometazoline 0.1% nasal drops — pack variant 1,Eye/Ear/Nasal,55.0,Xylometazoline 0.1%,44.0,Common formulation / estimated seed data; verify
+Xylometazoline 0.05% nasal drops — pack variant 1,Eye/Ear/Nasal,45.0,Xylometazoline 0.05%,36.0,Common formulation / estimated seed data; verify
+Oxymetazoline nasal spray — pack variant 1,Eye/Ear/Nasal,85.0,Oxymetazoline,68.0,Common formulation / estimated seed data; verify
+Fluticasone nasal spray — pack variant 1,Eye/Ear/Nasal,220.0,Fluticasone propionate,176.0,Common formulation / estimated seed data; verify
+Mometasone nasal spray — pack variant 1,Eye/Ear/Nasal,180.0,Mometasone furoate,144.0,Common formulation / estimated seed data; verify
+Artificial tears — pack variant 1,Eye/Ear/Nasal,85.0,Hypromellose,68.0,Common formulation / estimated seed data; verify
+Latanoprost eye drops — pack variant 1,Eye/Ear/Nasal,250.0,Latanoprost,200.0,Common formulation / estimated seed data; verify
+Timolol eye drops — pack variant 1,Eye/Ear/Nasal,90.0,Timolol maleate,72.0,Common formulation / estimated seed data; verify
+Brimonidine eye drops — pack variant 1,Eye/Ear/Nasal,160.0,Brimonidine tartrate,128.0,Common formulation / estimated seed data; verify
+Dexamethasone eye drops — pack variant 1,Eye/Ear/Nasal,60.0,Dexamethasone,48.0,Common formulation / estimated seed data; verify
+Naphazoline eye drops — pack variant 1,Eye/Ear/Nasal,45.0,Naphazoline,36.0,Common formulation / estimated seed data; verify
+Ear antiseptic drops — pack variant 1,Eye/Ear/Nasal,60.0,Antiseptic combination,48.0,Common formulation / estimated seed data; verify
+Saline nasal spray — pack variant 1,Eye/Ear/Nasal,75.0,Sodium chloride 0.9%,60.0,Common formulation / estimated seed data; verify
+Moxifloxacin 0.5% eye drops — pack variant 2,Eye/Ear/Nasal,100.0,Moxifloxacin 0.5%,80.0,Common formulation / estimated seed data; verify
+Tobramycin 0.3% eye drops — pack variant 2,Eye/Ear/Nasal,90.0,Tobramycin 0.3%,72.0,Common formulation / estimated seed data; verify
+Chloramphenicol eye drops — pack variant 2,Eye/Ear/Nasal,50.0,Chloramphenicol,40.0,Common formulation / estimated seed data; verify
+Carboxymethylcellulose eye drops — pack variant 2,Eye/Ear/Nasal,115.0,Carboxymethylcellulose,92.0,Common formulation / estimated seed data; verify
+Moxifloxacin + Dexamethasone eye drops — pack variant 2,Eye/Ear/Nasal,130.0,Moxifloxacin + Dexamethasone,104.0,Common formulation / estimated seed data; verify
+Olopatadine eye drops — pack variant 2,Eye/Ear/Nasal,135.0,Olopatadine,108.0,Common formulation / estimated seed data; verify
+Ketotifen eye drops — pack variant 2,Eye/Ear/Nasal,105.0,Ketotifen,84.0,Common formulation / estimated seed data; verify
+Ciprofloxacin ear drops — pack variant 2,Eye/Ear/Nasal,70.0,Ciprofloxacin,56.0,Common formulation / estimated seed data; verify
+Ofloxacin ear drops — pack variant 2,Eye/Ear/Nasal,75.0,Ofloxacin,60.0,Common formulation / estimated seed data; verify
+Wax-softening ear drops — pack variant 2,Eye/Ear/Nasal,85.0,Carbamide peroxide,68.0,Common formulation / estimated seed data; verify
+Sodium chloride nasal drops — pack variant 2,Eye/Ear/Nasal,40.0,Sodium chloride 0.9%,32.0,Common formulation / estimated seed data; verify
+Xylometazoline 0.1% nasal drops — pack variant 2,Eye/Ear/Nasal,60.0,Xylometazoline 0.1%,48.0,Common formulation / estimated seed data; verify
+Xylometazoline 0.05% nasal drops — pack variant 2,Eye/Ear/Nasal,50.0,Xylometazoline 0.05%,40.0,Common formulation / estimated seed data; verify
+Oxymetazoline nasal spray — pack variant 2,Eye/Ear/Nasal,90.0,Oxymetazoline,72.0,Common formulation / estimated seed data; verify
+Fluticasone nasal spray — pack variant 2,Eye/Ear/Nasal,225.0,Fluticasone propionate,180.0,Common formulation / estimated seed data; verify
+Mometasone nasal spray — pack variant 2,Eye/Ear/Nasal,185.0,Mometasone furoate,148.0,Common formulation / estimated seed data; verify
+Artificial tears — pack variant 2,Eye/Ear/Nasal,90.0,Hypromellose,72.0,Common formulation / estimated seed data; verify
+Latanoprost eye drops — pack variant 2,Eye/Ear/Nasal,255.0,Latanoprost,204.0,Common formulation / estimated seed data; verify
+Timolol eye drops — pack variant 2,Eye/Ear/Nasal,95.0,Timolol maleate,76.0,Common formulation / estimated seed data; verify
+Brimonidine eye drops — pack variant 2,Eye/Ear/Nasal,165.0,Brimonidine tartrate,132.0,Common formulation / estimated seed data; verify
+Dexamethasone eye drops — pack variant 2,Eye/Ear/Nasal,65.0,Dexamethasone,52.0,Common formulation / estimated seed data; verify
+Naphazoline eye drops — pack variant 2,Eye/Ear/Nasal,50.0,Naphazoline,40.0,Common formulation / estimated seed data; verify
+Ear antiseptic drops — pack variant 2,Eye/Ear/Nasal,65.0,Antiseptic combination,52.0,Common formulation / estimated seed data; verify
+Saline nasal spray — pack variant 2,Eye/Ear/Nasal,80.0,Sodium chloride 0.9%,64.0,Common formulation / estimated seed data; verify
+Moxifloxacin 0.5% eye drops — pack variant 3,Eye/Ear/Nasal,105.0,Moxifloxacin 0.5%,84.0,Common formulation / estimated seed data; verify
+Tobramycin 0.3% eye drops — pack variant 3,Eye/Ear/Nasal,95.0,Tobramycin 0.3%,76.0,Common formulation / estimated seed data; verify
+Chloramphenicol eye drops — pack variant 3,Eye/Ear/Nasal,55.0,Chloramphenicol,44.0,Common formulation / estimated seed data; verify
+Carboxymethylcellulose eye drops — pack variant 3,Eye/Ear/Nasal,120.0,Carboxymethylcellulose,96.0,Common formulation / estimated seed data; verify
+Moxifloxacin + Dexamethasone eye drops — pack variant 3,Eye/Ear/Nasal,135.0,Moxifloxacin + Dexamethasone,108.0,Common formulation / estimated seed data; verify
+Olopatadine eye drops — pack variant 3,Eye/Ear/Nasal,140.0,Olopatadine,112.0,Common formulation / estimated seed data; verify
+Ketotifen eye drops — pack variant 3,Eye/Ear/Nasal,110.0,Ketotifen,88.0,Common formulation / estimated seed data; verify
+Ciprofloxacin ear drops — pack variant 3,Eye/Ear/Nasal,75.0,Ciprofloxacin,60.0,Common formulation / estimated seed data; verify
+Ofloxacin ear drops — pack variant 3,Eye/Ear/Nasal,80.0,Ofloxacin,64.0,Common formulation / estimated seed data; verify
+Wax-softening ear drops — pack variant 3,Eye/Ear/Nasal,90.0,Carbamide peroxide,72.0,Common formulation / estimated seed data; verify
+Sodium chloride nasal drops — pack variant 3,Eye/Ear/Nasal,45.0,Sodium chloride 0.9%,36.0,Common formulation / estimated seed data; verify
+Xylometazoline 0.1% nasal drops — pack variant 3,Eye/Ear/Nasal,65.0,Xylometazoline 0.1%,52.0,Common formulation / estimated seed data; verify
+Xylometazoline 0.05% nasal drops — pack variant 3,Eye/Ear/Nasal,55.0,Xylometazoline 0.05%,44.0,Common formulation / estimated seed data; verify
+Oxymetazoline nasal spray — pack variant 3,Eye/Ear/Nasal,95.0,Oxymetazoline,76.0,Common formulation / estimated seed data; verify
+Fluticasone nasal spray — pack variant 3,Eye/Ear/Nasal,230.0,Fluticasone propionate,184.0,Common formulation / estimated seed data; verify
+Mometasone nasal spray — pack variant 3,Eye/Ear/Nasal,190.0,Mometasone furoate,152.0,Common formulation / estimated seed data; verify
+Artificial tears — pack variant 3,Eye/Ear/Nasal,95.0,Hypromellose,76.0,Common formulation / estimated seed data; verify
+Latanoprost eye drops — pack variant 3,Eye/Ear/Nasal,260.0,Latanoprost,208.0,Common formulation / estimated seed data; verify
+Timolol eye drops — pack variant 3,Eye/Ear/Nasal,100.0,Timolol maleate,80.0,Common formulation / estimated seed data; verify
+Brimonidine eye drops — pack variant 3,Eye/Ear/Nasal,170.0,Brimonidine tartrate,136.0,Common formulation / estimated seed data; verify
+Dexamethasone eye drops — pack variant 3,Eye/Ear/Nasal,70.0,Dexamethasone,56.0,Common formulation / estimated seed data; verify
+Naphazoline eye drops — pack variant 3,Eye/Ear/Nasal,55.0,Naphazoline,44.0,Common formulation / estimated seed data; verify
+Ear antiseptic drops — pack variant 3,Eye/Ear/Nasal,70.0,Antiseptic combination,56.0,Common formulation / estimated seed data; verify
+Saline nasal spray — pack variant 3,Eye/Ear/Nasal,85.0,Sodium chloride 0.9%,68.0,Common formulation / estimated seed data; verify
+Moxifloxacin 0.5% eye drops — pack variant 4,Eye/Ear/Nasal,110.0,Moxifloxacin 0.5%,88.0,Common formulation / estimated seed data; verify
+RHO ROMISPAS TAB,Antispasmodic & Pain Relief,48.0,Antispasmodic combination; exact composition not legible in source,38.4,SP invoice / Rhombus booklet; verify composition
+IND GENISPAS TAB,Antispasmodic & Pain Relief,42.19,Antispasmodic combination; exact composition not legible in source,33.75,SP invoice / Rhombus booklet; verify composition
+Drotaverine 40 mg tablet,Antispasmodic & Pain Relief,55.0,Drotaverine 40 mg,44.0,Common formulation / estimated seed data; verify
+Drotaverine 80 mg tablet,Antispasmodic & Pain Relief,85.0,Drotaverine 80 mg,68.0,Common formulation / estimated seed data; verify
+Hyoscine butylbromide 10 mg tablet,Antispasmodic & Pain Relief,45.0,Hyoscine butylbromide 10 mg,36.0,Common formulation / estimated seed data; verify
+Mebeverine 135 mg tablet,Antispasmodic & Pain Relief,95.0,Mebeverine 135 mg,76.0,Common formulation / estimated seed data; verify
+Dicyclomine 10 mg tablet,Antispasmodic & Pain Relief,30.0,Dicyclomine 10 mg,24.0,Common formulation / estimated seed data; verify
+Dicyclomine + Paracetamol tablet,Antispasmodic & Pain Relief,45.0,Dicyclomine + Paracetamol,36.0,Common formulation / estimated seed data; verify
+Mefenamic acid + Dicyclomine tablet,Antispasmodic & Pain Relief,55.0,Mefenamic acid + Dicyclomine,44.0,Common formulation / estimated seed data; verify
+Cyclopam-type tablet,Antispasmodic & Pain Relief,50.0,Dicyclomine + Paracetamol,40.0,Common formulation / estimated seed data; verify
+Simethicone + Dicyclomine tablet,Antispasmodic & Pain Relief,60.0,Simethicone + Dicyclomine,48.0,Common formulation / estimated seed data; verify
+Alverine citrate 60 mg capsule,Antispasmodic & Pain Relief,90.0,Alverine citrate 60 mg,72.0,Common formulation / estimated seed data; verify
+Baclofen 10 mg tablet,Antispasmodic & Pain Relief,45.0,Baclofen 10 mg,36.0,Common formulation / estimated seed data; verify
+Tizanidine 2 mg tablet,Antispasmodic & Pain Relief,65.0,Tizanidine 2 mg,52.0,Common formulation / estimated seed data; verify
+Thiocolchicoside 4 mg tablet,Antispasmodic & Pain Relief,100.0,Thiocolchicoside 4 mg,80.0,Common formulation / estimated seed data; verify
+Chlorzoxazone 250 mg tablet,Antispasmodic & Pain Relief,45.0,Chlorzoxazone 250 mg,36.0,Common formulation / estimated seed data; verify
+Tolperisone 150 mg tablet,Antispasmodic & Pain Relief,90.0,Tolperisone 150 mg,72.0,Common formulation / estimated seed data; verify
+Diclofenac + Paracetamol tablet,Antispasmodic & Pain Relief,50.0,Diclofenac + Paracetamol,40.0,Common formulation / estimated seed data; verify
+Aceclofenac + Paracetamol tablet,Antispasmodic & Pain Relief,55.0,Aceclofenac + Paracetamol,44.0,Common formulation / estimated seed data; verify
+Etoricoxib 60 mg tablet,Antispasmodic & Pain Relief,100.0,Etoricoxib 60 mg,80.0,Common formulation / estimated seed data; verify
+Etoricoxib 90 mg tablet,Antispasmodic & Pain Relief,125.0,Etoricoxib 90 mg,100.0,Common formulation / estimated seed data; verify
+Pain relief gel,Antispasmodic & Pain Relief,95.0,Diclofenac + methyl salicylate + menthol,76.0,Common formulation / estimated seed data; verify
+Drotaverine 40 mg tablet — pack variant 1,Antispasmodic & Pain Relief,55.0,Drotaverine 40 mg,44.0,Common formulation / estimated seed data; verify
+Drotaverine 80 mg tablet — pack variant 1,Antispasmodic & Pain Relief,85.0,Drotaverine 80 mg,68.0,Common formulation / estimated seed data; verify
+Hyoscine butylbromide 10 mg tablet — pack variant 1,Antispasmodic & Pain Relief,45.0,Hyoscine butylbromide 10 mg,36.0,Common formulation / estimated seed data; verify
+Mebeverine 135 mg tablet — pack variant 1,Antispasmodic & Pain Relief,95.0,Mebeverine 135 mg,76.0,Common formulation / estimated seed data; verify
+Dicyclomine 10 mg tablet — pack variant 1,Antispasmodic & Pain Relief,30.0,Dicyclomine 10 mg,24.0,Common formulation / estimated seed data; verify
+Dicyclomine + Paracetamol tablet — pack variant 1,Antispasmodic & Pain Relief,45.0,Dicyclomine + Paracetamol,36.0,Common formulation / estimated seed data; verify
+Mefenamic acid + Dicyclomine tablet — pack variant 1,Antispasmodic & Pain Relief,55.0,Mefenamic acid + Dicyclomine,44.0,Common formulation / estimated seed data; verify
+Cyclopam-type tablet — pack variant 1,Antispasmodic & Pain Relief,50.0,Dicyclomine + Paracetamol,40.0,Common formulation / estimated seed data; verify
+Simethicone + Dicyclomine tablet — pack variant 1,Antispasmodic & Pain Relief,60.0,Simethicone + Dicyclomine,48.0,Common formulation / estimated seed data; verify
+Alverine citrate 60 mg capsule — pack variant 1,Antispasmodic & Pain Relief,90.0,Alverine citrate 60 mg,72.0,Common formulation / estimated seed data; verify
+Baclofen 10 mg tablet — pack variant 1,Antispasmodic & Pain Relief,45.0,Baclofen 10 mg,36.0,Common formulation / estimated seed data; verify
+Tizanidine 2 mg tablet — pack variant 1,Antispasmodic & Pain Relief,65.0,Tizanidine 2 mg,52.0,Common formulation / estimated seed data; verify
+Thiocolchicoside 4 mg tablet — pack variant 1,Antispasmodic & Pain Relief,100.0,Thiocolchicoside 4 mg,80.0,Common formulation / estimated seed data; verify
+Chlorzoxazone 250 mg tablet — pack variant 1,Antispasmodic & Pain Relief,45.0,Chlorzoxazone 250 mg,36.0,Common formulation / estimated seed data; verify
+Tolperisone 150 mg tablet — pack variant 1,Antispasmodic & Pain Relief,90.0,Tolperisone 150 mg,72.0,Common formulation / estimated seed data; verify
+Diclofenac + Paracetamol tablet — pack variant 1,Antispasmodic & Pain Relief,50.0,Diclofenac + Paracetamol,40.0,Common formulation / estimated seed data; verify
+Aceclofenac + Paracetamol tablet — pack variant 1,Antispasmodic & Pain Relief,55.0,Aceclofenac + Paracetamol,44.0,Common formulation / estimated seed data; verify
+Etoricoxib 60 mg tablet — pack variant 1,Antispasmodic & Pain Relief,100.0,Etoricoxib 60 mg,80.0,Common formulation / estimated seed data; verify
+Etoricoxib 90 mg tablet — pack variant 1,Antispasmodic & Pain Relief,125.0,Etoricoxib 90 mg,100.0,Common formulation / estimated seed data; verify
+Pain relief gel — pack variant 1,Antispasmodic & Pain Relief,95.0,Diclofenac + methyl salicylate + menthol,76.0,Common formulation / estimated seed data; verify
+Drotaverine 40 mg tablet — pack variant 2,Antispasmodic & Pain Relief,60.0,Drotaverine 40 mg,48.0,Common formulation / estimated seed data; verify
+Drotaverine 80 mg tablet — pack variant 2,Antispasmodic & Pain Relief,90.0,Drotaverine 80 mg,72.0,Common formulation / estimated seed data; verify
+Hyoscine butylbromide 10 mg tablet — pack variant 2,Antispasmodic & Pain Relief,50.0,Hyoscine butylbromide 10 mg,40.0,Common formulation / estimated seed data; verify
+Mebeverine 135 mg tablet — pack variant 2,Antispasmodic & Pain Relief,100.0,Mebeverine 135 mg,80.0,Common formulation / estimated seed data; verify
+Dicyclomine 10 mg tablet — pack variant 2,Antispasmodic & Pain Relief,35.0,Dicyclomine 10 mg,28.0,Common formulation / estimated seed data; verify
+Dicyclomine + Paracetamol tablet — pack variant 2,Antispasmodic & Pain Relief,50.0,Dicyclomine + Paracetamol,40.0,Common formulation / estimated seed data; verify
+Mefenamic acid + Dicyclomine tablet — pack variant 2,Antispasmodic & Pain Relief,60.0,Mefenamic acid + Dicyclomine,48.0,Common formulation / estimated seed data; verify
+Cyclopam-type tablet — pack variant 2,Antispasmodic & Pain Relief,55.0,Dicyclomine + Paracetamol,44.0,Common formulation / estimated seed data; verify
+Simethicone + Dicyclomine tablet — pack variant 2,Antispasmodic & Pain Relief,65.0,Simethicone + Dicyclomine,52.0,Common formulation / estimated seed data; verify
+Alverine citrate 60 mg capsule — pack variant 2,Antispasmodic & Pain Relief,95.0,Alverine citrate 60 mg,76.0,Common formulation / estimated seed data; verify
+Baclofen 10 mg tablet — pack variant 2,Antispasmodic & Pain Relief,50.0,Baclofen 10 mg,40.0,Common formulation / estimated seed data; verify
+Tizanidine 2 mg tablet — pack variant 2,Antispasmodic & Pain Relief,70.0,Tizanidine 2 mg,56.0,Common formulation / estimated seed data; verify
+Thiocolchicoside 4 mg tablet — pack variant 2,Antispasmodic & Pain Relief,105.0,Thiocolchicoside 4 mg,84.0,Common formulation / estimated seed data; verify
+Chlorzoxazone 250 mg tablet — pack variant 2,Antispasmodic & Pain Relief,50.0,Chlorzoxazone 250 mg,40.0,Common formulation / estimated seed data; verify
+Tolperisone 150 mg tablet — pack variant 2,Antispasmodic & Pain Relief,95.0,Tolperisone 150 mg,76.0,Common formulation / estimated seed data; verify
+Diclofenac + Paracetamol tablet — pack variant 2,Antispasmodic & Pain Relief,55.0,Diclofenac + Paracetamol,44.0,Common formulation / estimated seed data; verify
+Aceclofenac + Paracetamol tablet — pack variant 2,Antispasmodic & Pain Relief,60.0,Aceclofenac + Paracetamol,48.0,Common formulation / estimated seed data; verify
+Etoricoxib 60 mg tablet — pack variant 2,Antispasmodic & Pain Relief,105.0,Etoricoxib 60 mg,84.0,Common formulation / estimated seed data; verify
+Etoricoxib 90 mg tablet — pack variant 2,Antispasmodic & Pain Relief,130.0,Etoricoxib 90 mg,104.0,Common formulation / estimated seed data; verify
+Pain relief gel — pack variant 2,Antispasmodic & Pain Relief,100.0,Diclofenac + methyl salicylate + menthol,80.0,Common formulation / estimated seed data; verify
+Drotaverine 40 mg tablet — pack variant 3,Antispasmodic & Pain Relief,65.0,Drotaverine 40 mg,52.0,Common formulation / estimated seed data; verify
+Drotaverine 80 mg tablet — pack variant 3,Antispasmodic & Pain Relief,95.0,Drotaverine 80 mg,76.0,Common formulation / estimated seed data; verify
+Hyoscine butylbromide 10 mg tablet — pack variant 3,Antispasmodic & Pain Relief,55.0,Hyoscine butylbromide 10 mg,44.0,Common formulation / estimated seed data; verify
+Mebeverine 135 mg tablet — pack variant 3,Antispasmodic & Pain Relief,105.0,Mebeverine 135 mg,84.0,Common formulation / estimated seed data; verify
+Dicyclomine 10 mg tablet — pack variant 3,Antispasmodic & Pain Relief,40.0,Dicyclomine 10 mg,32.0,Common formulation / estimated seed data; verify
+Dicyclomine + Paracetamol tablet — pack variant 3,Antispasmodic & Pain Relief,55.0,Dicyclomine + Paracetamol,44.0,Common formulation / estimated seed data; verify
+Mefenamic acid + Dicyclomine tablet — pack variant 3,Antispasmodic & Pain Relief,65.0,Mefenamic acid + Dicyclomine,52.0,Common formulation / estimated seed data; verify
+Cyclopam-type tablet — pack variant 3,Antispasmodic & Pain Relief,60.0,Dicyclomine + Paracetamol,48.0,Common formulation / estimated seed data; verify
+Simethicone + Dicyclomine tablet — pack variant 3,Antispasmodic & Pain Relief,70.0,Simethicone + Dicyclomine,56.0,Common formulation / estimated seed data; verify
+Alverine citrate 60 mg capsule — pack variant 3,Antispasmodic & Pain Relief,100.0,Alverine citrate 60 mg,80.0,Common formulation / estimated seed data; verify
+Baclofen 10 mg tablet — pack variant 3,Antispasmodic & Pain Relief,55.0,Baclofen 10 mg,44.0,Common formulation / estimated seed data; verify
+Tizanidine 2 mg tablet — pack variant 3,Antispasmodic & Pain Relief,75.0,Tizanidine 2 mg,60.0,Common formulation / estimated seed data; verify
+Thiocolchicoside 4 mg tablet — pack variant 3,Antispasmodic & Pain Relief,110.0,Thiocolchicoside 4 mg,88.0,Common formulation / estimated seed data; verify
+Chlorzoxazone 250 mg tablet — pack variant 3,Antispasmodic & Pain Relief,55.0,Chlorzoxazone 250 mg,44.0,Common formulation / estimated seed data; verify
+Tolperisone 150 mg tablet — pack variant 3,Antispasmodic & Pain Relief,100.0,Tolperisone 150 mg,80.0,Common formulation / estimated seed data; verify
+Diclofenac + Paracetamol tablet — pack variant 3,Antispasmodic & Pain Relief,60.0,Diclofenac + Paracetamol,48.0,Common formulation / estimated seed data; verify
+Aceclofenac + Paracetamol tablet — pack variant 3,Antispasmodic & Pain Relief,65.0,Aceclofenac + Paracetamol,52.0,Common formulation / estimated seed data; verify
+Etoricoxib 60 mg tablet — pack variant 3,Antispasmodic & Pain Relief,110.0,Etoricoxib 60 mg,88.0,Common formulation / estimated seed data; verify
+Etoricoxib 90 mg tablet — pack variant 3,Antispasmodic & Pain Relief,135.0,Etoricoxib 90 mg,108.0,Common formulation / estimated seed data; verify
+Pain relief gel — pack variant 3,Antispasmodic & Pain Relief,105.0,Diclofenac + methyl salicylate + menthol,84.0,Common formulation / estimated seed data; verify
+Drotaverine 40 mg tablet — pack variant 4,Antispasmodic & Pain Relief,70.0,Drotaverine 40 mg,56.0,Common formulation / estimated seed data; verify
+Drotaverine 80 mg tablet — pack variant 4,Antispasmodic & Pain Relief,100.0,Drotaverine 80 mg,80.0,Common formulation / estimated seed data; verify
+Hyoscine butylbromide 10 mg tablet — pack variant 4,Antispasmodic & Pain Relief,60.0,Hyoscine butylbromide 10 mg,48.0,Common formulation / estimated seed data; verify
+Mebeverine 135 mg tablet — pack variant 4,Antispasmodic & Pain Relief,110.0,Mebeverine 135 mg,88.0,Common formulation / estimated seed data; verify
+Dicyclomine 10 mg tablet — pack variant 4,Antispasmodic & Pain Relief,45.0,Dicyclomine 10 mg,36.0,Common formulation / estimated seed data; verify
+Dicyclomine + Paracetamol tablet — pack variant 4,Antispasmodic & Pain Relief,60.0,Dicyclomine + Paracetamol,48.0,Common formulation / estimated seed data; verify
+Mefenamic acid + Dicyclomine tablet — pack variant 4,Antispasmodic & Pain Relief,70.0,Mefenamic acid + Dicyclomine,56.0,Common formulation / estimated seed data; verify
+Cyclopam-type tablet — pack variant 4,Antispasmodic & Pain Relief,65.0,Dicyclomine + Paracetamol,52.0,Common formulation / estimated seed data; verify
+Simethicone + Dicyclomine tablet — pack variant 4,Antispasmodic & Pain Relief,75.0,Simethicone + Dicyclomine,60.0,Common formulation / estimated seed data; verify
+Alverine citrate 60 mg capsule — pack variant 4,Antispasmodic & Pain Relief,105.0,Alverine citrate 60 mg,84.0,Common formulation / estimated seed data; verify
+Baclofen 10 mg tablet — pack variant 4,Antispasmodic & Pain Relief,60.0,Baclofen 10 mg,48.0,Common formulation / estimated seed data; verify
+Tizanidine 2 mg tablet — pack variant 4,Antispasmodic & Pain Relief,80.0,Tizanidine 2 mg,64.0,Common formulation / estimated seed data; verify
+Thiocolchicoside 4 mg tablet — pack variant 4,Antispasmodic & Pain Relief,115.0,Thiocolchicoside 4 mg,92.0,Common formulation / estimated seed data; verify
+Chlorzoxazone 250 mg tablet — pack variant 4,Antispasmodic & Pain Relief,60.0,Chlorzoxazone 250 mg,48.0,Common formulation / estimated seed data; verify
+Tolperisone 150 mg tablet — pack variant 4,Antispasmodic & Pain Relief,105.0,Tolperisone 150 mg,84.0,Common formulation / estimated seed data; verify
+Diclofenac + Paracetamol tablet — pack variant 4,Antispasmodic & Pain Relief,65.0,Diclofenac + Paracetamol,52.0,Common formulation / estimated seed data; verify
+Aceclofenac + Paracetamol tablet — pack variant 4,Antispasmodic & Pain Relief,70.0,Aceclofenac + Paracetamol,56.0,Common formulation / estimated seed data; verify
+Etoricoxib 60 mg tablet — pack variant 4,Antispasmodic & Pain Relief,115.0,Etoricoxib 60 mg,92.0,Common formulation / estimated seed data; verify
+RAM ORACON MOUTH ULCER GEL,Oral Care,79.0,Oral ulcer gel; exact composition not legible in source,63.2,SP invoice / Rhombus booklet; verify composition
+AM RIODIC-GEL 30GM,Oral Care,110.0,Oral gel; exact composition not legible in source,88.0,SP invoice / Rhombus booklet; verify composition
+Choline salicylate oral gel,Oral Care,80.0,Choline salicylate + lignocaine,64.0,Common formulation / estimated seed data; verify
+Benzydamine mouthwash,Oral Care,120.0,Benzydamine hydrochloride,96.0,Common formulation / estimated seed data; verify
+Chlorhexidine mouthwash,Oral Care,95.0,Chlorhexidine gluconate,76.0,Common formulation / estimated seed data; verify
+Povidone iodine gargle,Oral Care,90.0,Povidone iodine,72.0,Common formulation / estimated seed data; verify
+Lidocaine oral gel,Oral Care,75.0,Lidocaine,60.0,Common formulation / estimated seed data; verify
+Miconazole oral gel,Oral Care,110.0,Miconazole,88.0,Common formulation / estimated seed data; verify
+Triamcinolone oral paste,Oral Care,95.0,Triamcinolone acetonide,76.0,Common formulation / estimated seed data; verify
+Oral ulcer gel,Oral Care,79.0,Oral ulcer formulation; verify pack,63.2,Common formulation / estimated seed data; verify
+Vitamin B complex oral drops,Oral Care,55.0,B-complex vitamins,44.0,Common formulation / estimated seed data; verify
+Calcium + Vitamin D chewable tablet,Oral Care,100.0,Calcium + Cholecalciferol,80.0,Common formulation / estimated seed data; verify
+Fluoride toothpaste,Oral Care,85.0,Sodium fluoride,68.0,Common formulation / estimated seed data; verify
+Dental analgesic gel,Oral Care,70.0,Topical oral analgesic,56.0,Common formulation / estimated seed data; verify
+Saline mouth rinse,Oral Care,35.0,Sodium chloride solution,28.0,Common formulation / estimated seed data; verify
+Artificial saliva gel,Oral Care,150.0,Saliva substitute,120.0,Common formulation / estimated seed data; verify
+Lignocaine viscous solution,Oral Care,65.0,Lignocaine,52.0,Common formulation / estimated seed data; verify
+Choline salicylate oral gel — pack variant 1,Oral Care,80.0,Choline salicylate + lignocaine,64.0,Common formulation / estimated seed data; verify
+Benzydamine mouthwash — pack variant 1,Oral Care,120.0,Benzydamine hydrochloride,96.0,Common formulation / estimated seed data; verify
+Chlorhexidine mouthwash — pack variant 1,Oral Care,95.0,Chlorhexidine gluconate,76.0,Common formulation / estimated seed data; verify
+Povidone iodine gargle — pack variant 1,Oral Care,90.0,Povidone iodine,72.0,Common formulation / estimated seed data; verify
+Lidocaine oral gel — pack variant 1,Oral Care,75.0,Lidocaine,60.0,Common formulation / estimated seed data; verify
+Miconazole oral gel — pack variant 1,Oral Care,110.0,Miconazole,88.0,Common formulation / estimated seed data; verify
+Triamcinolone oral paste — pack variant 1,Oral Care,95.0,Triamcinolone acetonide,76.0,Common formulation / estimated seed data; verify
+Oral ulcer gel — pack variant 1,Oral Care,79.0,Oral ulcer formulation; verify pack,63.2,Common formulation / estimated seed data; verify
+Vitamin B complex oral drops — pack variant 1,Oral Care,55.0,B-complex vitamins,44.0,Common formulation / estimated seed data; verify
+Calcium + Vitamin D chewable tablet — pack variant 1,Oral Care,100.0,Calcium + Cholecalciferol,80.0,Common formulation / estimated seed data; verify
+Fluoride toothpaste — pack variant 1,Oral Care,85.0,Sodium fluoride,68.0,Common formulation / estimated seed data; verify
+Dental analgesic gel — pack variant 1,Oral Care,70.0,Topical oral analgesic,56.0,Common formulation / estimated seed data; verify
+Saline mouth rinse — pack variant 1,Oral Care,35.0,Sodium chloride solution,28.0,Common formulation / estimated seed data; verify
+Artificial saliva gel — pack variant 1,Oral Care,150.0,Saliva substitute,120.0,Common formulation / estimated seed data; verify
+Lignocaine viscous solution — pack variant 1,Oral Care,65.0,Lignocaine,52.0,Common formulation / estimated seed data; verify
+Choline salicylate oral gel — pack variant 2,Oral Care,85.0,Choline salicylate + lignocaine,68.0,Common formulation / estimated seed data; verify
+Benzydamine mouthwash — pack variant 2,Oral Care,125.0,Benzydamine hydrochloride,100.0,Common formulation / estimated seed data; verify
+Chlorhexidine mouthwash — pack variant 2,Oral Care,100.0,Chlorhexidine gluconate,80.0,Common formulation / estimated seed data; verify
+Povidone iodine gargle — pack variant 2,Oral Care,95.0,Povidone iodine,76.0,Common formulation / estimated seed data; verify
+Lidocaine oral gel — pack variant 2,Oral Care,80.0,Lidocaine,64.0,Common formulation / estimated seed data; verify
+Miconazole oral gel — pack variant 2,Oral Care,115.0,Miconazole,92.0,Common formulation / estimated seed data; verify
+Triamcinolone oral paste — pack variant 2,Oral Care,100.0,Triamcinolone acetonide,80.0,Common formulation / estimated seed data; verify
+Oral ulcer gel — pack variant 2,Oral Care,84.0,Oral ulcer formulation; verify pack,67.2,Common formulation / estimated seed data; verify
+Vitamin B complex oral drops — pack variant 2,Oral Care,60.0,B-complex vitamins,48.0,Common formulation / estimated seed data; verify
+Calcium + Vitamin D chewable tablet — pack variant 2,Oral Care,105.0,Calcium + Cholecalciferol,84.0,Common formulation / estimated seed data; verify
+Fluoride toothpaste — pack variant 2,Oral Care,90.0,Sodium fluoride,72.0,Common formulation / estimated seed data; verify
+Dental analgesic gel — pack variant 2,Oral Care,75.0,Topical oral analgesic,60.0,Common formulation / estimated seed data; verify
+Saline mouth rinse — pack variant 2,Oral Care,40.0,Sodium chloride solution,32.0,Common formulation / estimated seed data; verify
+Artificial saliva gel — pack variant 2,Oral Care,155.0,Saliva substitute,124.0,Common formulation / estimated seed data; verify
+Lignocaine viscous solution — pack variant 2,Oral Care,70.0,Lignocaine,56.0,Common formulation / estimated seed data; verify
+Choline salicylate oral gel — pack variant 3,Oral Care,90.0,Choline salicylate + lignocaine,72.0,Common formulation / estimated seed data; verify
+Benzydamine mouthwash — pack variant 3,Oral Care,130.0,Benzydamine hydrochloride,104.0,Common formulation / estimated seed data; verify
+Chlorhexidine mouthwash — pack variant 3,Oral Care,105.0,Chlorhexidine gluconate,84.0,Common formulation / estimated seed data; verify
+Povidone iodine gargle — pack variant 3,Oral Care,100.0,Povidone iodine,80.0,Common formulation / estimated seed data; verify
+Lidocaine oral gel — pack variant 3,Oral Care,85.0,Lidocaine,68.0,Common formulation / estimated seed data; verify
+Miconazole oral gel — pack variant 3,Oral Care,120.0,Miconazole,96.0,Common formulation / estimated seed data; verify
+Triamcinolone oral paste — pack variant 3,Oral Care,105.0,Triamcinolone acetonide,84.0,Common formulation / estimated seed data; verify
+Oral ulcer gel — pack variant 3,Oral Care,89.0,Oral ulcer formulation; verify pack,71.2,Common formulation / estimated seed data; verify
+Vitamin B complex oral drops — pack variant 3,Oral Care,65.0,B-complex vitamins,52.0,Common formulation / estimated seed data; verify
+Calcium + Vitamin D chewable tablet — pack variant 3,Oral Care,110.0,Calcium + Cholecalciferol,88.0,Common formulation / estimated seed data; verify
+Fluoride toothpaste — pack variant 3,Oral Care,95.0,Sodium fluoride,76.0,Common formulation / estimated seed data; verify
+Dental analgesic gel — pack variant 3,Oral Care,80.0,Topical oral analgesic,64.0,Common formulation / estimated seed data; verify
+Saline mouth rinse — pack variant 3,Oral Care,45.0,Sodium chloride solution,36.0,Common formulation / estimated seed data; verify
+Artificial saliva gel — pack variant 3,Oral Care,160.0,Saliva substitute,128.0,Common formulation / estimated seed data; verify
+Lignocaine viscous solution — pack variant 3,Oral Care,75.0,Lignocaine,60.0,Common formulation / estimated seed data; verify
+Choline salicylate oral gel — pack variant 4,Oral Care,95.0,Choline salicylate + lignocaine,76.0,Common formulation / estimated seed data; verify
+Benzydamine mouthwash — pack variant 4,Oral Care,135.0,Benzydamine hydrochloride,108.0,Common formulation / estimated seed data; verify
+Chlorhexidine mouthwash — pack variant 4,Oral Care,110.0,Chlorhexidine gluconate,88.0,Common formulation / estimated seed data; verify
+Povidone iodine gargle — pack variant 4,Oral Care,105.0,Povidone iodine,84.0,Common formulation / estimated seed data; verify
+Lidocaine oral gel — pack variant 4,Oral Care,90.0,Lidocaine,72.0,Common formulation / estimated seed data; verify
+Miconazole oral gel — pack variant 4,Oral Care,125.0,Miconazole,100.0,Common formulation / estimated seed data; verify
+Triamcinolone oral paste — pack variant 4,Oral Care,110.0,Triamcinolone acetonide,88.0,Common formulation / estimated seed data; verify
+Oral ulcer gel — pack variant 4,Oral Care,94.0,Oral ulcer formulation; verify pack,75.2,Common formulation / estimated seed data; verify
+Vitamin B complex oral drops — pack variant 4,Oral Care,70.0,B-complex vitamins,56.0,Common formulation / estimated seed data; verify
+Calcium + Vitamin D chewable tablet — pack variant 4,Oral Care,115.0,Calcium + Cholecalciferol,92.0,Common formulation / estimated seed data; verify
+Fluoride toothpaste — pack variant 4,Oral Care,100.0,Sodium fluoride,80.0,Common formulation / estimated seed data; verify
+Dental analgesic gel — pack variant 4,Oral Care,85.0,Topical oral analgesic,68.0,Common formulation / estimated seed data; verify
+Saline mouth rinse — pack variant 4,Oral Care,50.0,Sodium chloride solution,40.0,Common formulation / estimated seed data; verify
+Artificial saliva gel — pack variant 4,Oral Care,165.0,Saliva substitute,132.0,Common formulation / estimated seed data; verify
+Lignocaine viscous solution — pack variant 4,Oral Care,80.0,Lignocaine,64.0,Common formulation / estimated seed data; verify
+Choline salicylate oral gel — pack variant 5,Oral Care,100.0,Choline salicylate + lignocaine,80.0,Common formulation / estimated seed data; verify
+Benzydamine mouthwash — pack variant 5,Oral Care,140.0,Benzydamine hydrochloride,112.0,Common formulation / estimated seed data; verify
+Chlorhexidine mouthwash — pack variant 5,Oral Care,115.0,Chlorhexidine gluconate,92.0,Common formulation / estimated seed data; verify
+Povidone iodine gargle — pack variant 5,Oral Care,110.0,Povidone iodine,88.0,Common formulation / estimated seed data; verify
+Lidocaine oral gel — pack variant 5,Oral Care,95.0,Lidocaine,76.0,Common formulation / estimated seed data; verify
+Miconazole oral gel — pack variant 5,Oral Care,130.0,Miconazole,104.0,Common formulation / estimated seed data; verify
+Triamcinolone oral paste — pack variant 5,Oral Care,115.0,Triamcinolone acetonide,92.0,Common formulation / estimated seed data; verify
+Oral ulcer gel — pack variant 5,Oral Care,99.0,Oral ulcer formulation; verify pack,79.2,Common formulation / estimated seed data; verify
+Vitamin B complex oral drops — pack variant 5,Oral Care,75.0,B-complex vitamins,60.0,Common formulation / estimated seed data; verify
+Calcium + Vitamin D chewable tablet — pack variant 5,Oral Care,120.0,Calcium + Cholecalciferol,96.0,Common formulation / estimated seed data; verify
+Fluoride toothpaste — pack variant 5,Oral Care,105.0,Sodium fluoride,84.0,Common formulation / estimated seed data; verify
+Dental analgesic gel — pack variant 5,Oral Care,90.0,Topical oral analgesic,72.0,Common formulation / estimated seed data; verify
+Saline mouth rinse — pack variant 5,Oral Care,55.0,Sodium chloride solution,44.0,Common formulation / estimated seed data; verify
+Artificial saliva gel — pack variant 5,Oral Care,170.0,Saliva substitute,136.0,Common formulation / estimated seed data; verify
+Lignocaine viscous solution — pack variant 5,Oral Care,85.0,Lignocaine,68.0,Common formulation / estimated seed data; verify
+Choline salicylate oral gel — pack variant 6,Oral Care,105.0,Choline salicylate + lignocaine,84.0,Common formulation / estimated seed data; verify
+Benzydamine mouthwash — pack variant 6,Oral Care,145.0,Benzydamine hydrochloride,116.0,Common formulation / estimated seed data; verify
+Chlorhexidine mouthwash — pack variant 6,Oral Care,120.0,Chlorhexidine gluconate,96.0,Common formulation / estimated seed data; verify
+Povidone iodine gargle — pack variant 6,Oral Care,115.0,Povidone iodine,92.0,Common formulation / estimated seed data; verify
+Lidocaine oral gel — pack variant 6,Oral Care,100.0,Lidocaine,80.0,Common formulation / estimated seed data; verify
+Miconazole oral gel — pack variant 6,Oral Care,135.0,Miconazole,108.0,Common formulation / estimated seed data; verify
+Triamcinolone oral paste — pack variant 6,Oral Care,120.0,Triamcinolone acetonide,96.0,Common formulation / estimated seed data; verify
+Oral ulcer gel — pack variant 6,Oral Care,104.0,Oral ulcer formulation; verify pack,83.2,Common formulation / estimated seed data; verify
